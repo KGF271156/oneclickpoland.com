@@ -12,9 +12,9 @@
   --terracotta-dark: #9B0C23;
   --chianti: #7A0F1F;
   --limone: #E8B93C;
-  --amalfi: #1F3A5F;
-  --amalfi-light: #2F5C94;
-  --flag-green: #1F3A5F;
+  --amalfi: #9B0C23;
+  --amalfi-light: #B3122D;
+  --flag-green: #46101C;
   --flag-red: #C8102E;
 
   --radius: 14px;
@@ -57,13 +57,8 @@ ul { margin: 0; padding: 0; list-style: none; }
 /* ---------- Header ---------- */
 .site-header {
   position: sticky; top: 0; z-index: 50;
-  background: linear-gradient(100deg,
-      var(--flag-green) 0%, var(--flag-green) 34%,
-      #F7F1E2 34%, #F7F1E2 66%,
-      var(--flag-red) 66%, var(--flag-red) 100%);
-  background-size: 160% 100%;
-  animation: header-shift 26s ease-in-out infinite alternate;
-  border-bottom: 1px solid rgba(0,0,0,0.12);
+  background: #FFFFFF;
+  border-bottom: 4px solid var(--flag-red);
 }
 @keyframes header-shift {
   0% { background-position: 0% 0; }
@@ -72,17 +67,17 @@ ul { margin: 0; padding: 0; list-style: none; }
 .header-row {
   display: flex; align-items: center; gap: 16px;
   padding: 16px 24px;
-  background: rgba(251,243,231,0.94);
+  background: #FFFFFF;
 }
 .logo { display: flex; align-items: center; gap: 10px; font-family: Georgia, serif; font-weight: 700; font-size: 20px; color: var(--ink); flex-shrink: 0; white-space: nowrap; }
-.logo .mark { width: 14px; height: 14px; border-radius: 4px; background: linear-gradient(135deg, var(--flag-green), var(--flag-red)); display: inline-block; }
+.logo .mark { width: 14px; height: 14px; border-radius: 4px; background: linear-gradient(180deg, #FFFFFF 50%, var(--flag-red) 50%); border: 1px solid rgba(0,0,0,0.25); display: inline-block; }
 .main-nav { display: flex; gap: 13px; margin-left: auto; flex-wrap: nowrap; }
 .main-nav a { font-size: 13px; font-weight: 600; color: var(--ink-soft); white-space: nowrap; }
 .main-nav a:hover { color: var(--terracotta); }
 .header-actions { display: flex; gap: 8px; align-items: center; flex-shrink: 0; }
 .header-actions .btn { padding: 9px 15px; font-size: 13.5px; white-space: nowrap; }
 .nav-toggle { display: none; background: none; border: none; font-size: 22px; cursor: pointer; color: var(--ink); }
-.mobile-nav { display: none; flex-direction: column; background: var(--paper); padding: 10px 24px 18px; }
+.mobile-nav { display: none; flex-direction: column; background: #FFFFFF; padding: 10px 24px 18px; }
 .mobile-nav a { padding: 10px 0; font-weight: 600; border-bottom: 1px solid var(--paper-dim); }
 
 @media (max-width: 1180px) {
@@ -107,35 +102,20 @@ ul { margin: 0; padding: 0; list-style: none; }
   color: var(--paper);
   padding: 64px 0 56px;
 }
-/* Tricolore: green (left, behind the text), white (middle), red (right) */
+/* Polish flag: white over red, on the right; the text sits on deep wine at the left */
 .hero::before, .hero::after {
   content: "";
-  position: absolute; inset: 0;
+  position: absolute; right: 0; left: 62%;
   z-index: 0;
 }
-.hero::before {
-  background: #F7F1E2;
-  clip-path: polygon(63% 0, 100% 0, 100% 100%, 51% 100%);
-  animation: hero-white-shift 12s ease-in-out infinite;
-}
-.hero::after {
-  background: var(--flag-red);
-  clip-path: polygon(85% 0, 100% 0, 100% 100%, 73% 100%);
-  animation: hero-red-shift 12s ease-in-out infinite;
-}
-@keyframes hero-white-shift {
-  0%, 100% { clip-path: polygon(63% 0, 100% 0, 100% 100%, 51% 100%); }
-  50% { clip-path: polygon(66% 0, 100% 0, 100% 100%, 54% 100%); }
-}
-@keyframes hero-red-shift {
-  0%, 100% { clip-path: polygon(85% 0, 100% 0, 100% 100%, 73% 100%); }
-  50% { clip-path: polygon(88% 0, 100% 0, 100% 100%, 76% 100%); }
-}
+.hero::before { top: 0; height: 50%; background: #FFFFFF; }
+.hero::after { top: 50%; bottom: 0; background: var(--flag-red); }
 @media (max-width: 860px) {
-  /* Narrow screens: text spans the full width, so keep it on green and
-     show the white and red as a flag stripe along the bottom edge */
-  .hero::before { clip-path: polygon(0 calc(100% - 14px), 100% calc(100% - 14px), 100% calc(100% - 7px), 0 calc(100% - 7px)); animation: none; }
-  .hero::after { clip-path: polygon(0 calc(100% - 7px), 100% calc(100% - 7px), 100% 100%, 0 100%); animation: none; }
+  /* Narrow screens: the text spans the full width, so show the flag (white over red) as a stripe along the bottom edge */
+  .hero::before, .hero::after { left: 0; right: 0; height: 7px; }
+  .hero::before { top: auto; bottom: 7px; }
+  .hero::after { top: auto; bottom: 0; }
+}
 }
 .hero .wrap { position: relative; z-index: 1; }
 .hero__eyebrow-flag {
