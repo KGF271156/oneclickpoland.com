@@ -1,0 +1,291 @@
+{
+  "slug": "subcarpathia",
+  "name": "Subcarpathia",
+  "name_pl": "Podkarpackie",
+  "adjective": "Subcarpathian",
+  "people": "Subcarpathians",
+  "eyebrow": "Southeast Poland · Capital: Rzeszów",
+  "title": "Subcarpathia —",
+  "title_em": "mountains at the end of the road.",
+  "tagline": "Rzeszów, the Bieszczady mountains and some of Poland's wildest country.",
+  "stats": [
+    [
+      "2.1M",
+      "residents"
+    ],
+    [
+      "17,800 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "Subcarpathia (Podkarpacie) lies in the southeast, in the foothills of the Carpathians. It borders Ukraine and Slovakia, and its eastern valleys have long been home to Lemkos, Boykos and Poles.",
+    "The Bieszczady mountains are known as Poland's wild corner: quiet forests, high meadows (połoniny) and few roads. Rzeszów is a fast-growing city with an aerospace industry."
+  ],
+  "map": {
+    "viewBox": "431 401 170 203",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Rzeszów",
+        "lat": 50.0412,
+        "lon": 21.9991,
+        "note": "The regional capital and aerospace hub.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Przemyśl",
+        "lat": 49.784,
+        "lon": 22.7676,
+        "note": "An old town on the San river, close to Ukraine."
+      },
+      {
+        "name": "Sanok",
+        "lat": 49.5568,
+        "lon": 22.2054,
+        "note": "A skansen (open-air museum) and Beksiński gallery.",
+        "label": "left"
+      },
+      {
+        "name": "Krosno",
+        "lat": 49.6888,
+        "lon": 21.7706,
+        "note": "Known for its glassworks.",
+        "label": "left"
+      },
+      {
+        "name": "Lesko",
+        "lat": 49.4686,
+        "lon": 22.3294,
+        "note": "Gateway to the Bieszczady."
+      },
+      {
+        "name": "Łańcut",
+        "lat": 50.0678,
+        "lon": 22.2284,
+        "note": "A castle and music festival."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "The Bieszczady",
+      "text": "Wild, sparsely populated mountains with bison, bears and open meadows."
+    },
+    {
+      "title": "Łańcut Castle",
+      "text": "One of Poland's finest aristocratic residences, with a famous coach collection."
+    },
+    {
+      "title": "Przemyśl",
+      "text": "One of Poland's oldest towns, on the San river."
+    }
+  ],
+  "places": [
+    {
+      "name": "Łańcut Castle",
+      "where": "Łańcut",
+      "text": "A palace and park with a famous collection of carriages."
+    },
+    {
+      "name": "Museum of Folk Architecture",
+      "where": "Sanok",
+      "text": "Wooden churches and cottages from Carpathian villages."
+    },
+    {
+      "name": "Bieszczady National Park",
+      "where": "Ustrzyki Górne",
+      "text": "High meadows, forests and trails."
+    },
+    {
+      "name": "Przemyśl Old Town",
+      "where": "Przemyśl",
+      "text": "Hilltop castle and old churches."
+    }
+  ],
+  "food": [
+    "Proziaki",
+    "Kiszka ziemniaczana",
+    "Trout",
+    "Pierogi",
+    "Krosno glass tableware"
+  ],
+  "festivals": [
+    {
+      "name": "Łańcut Music Festival",
+      "where": "Łańcut",
+      "month": 5,
+      "when": "May",
+      "text": "Classical concerts in the castle."
+    },
+    {
+      "name": "Corpus Christi processions",
+      "where": "Across Subcarpathia",
+      "month": 6,
+      "when": "Corpus Christi (varies)",
+      "text": "Flower-strewn processions through villages and towns.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Volleyball is the sport of Rzeszów: Asseco Resovia is among Poland's best-supported clubs.",
+    "clubs": [
+      {
+        "name": "Asseco Resovia",
+        "sport": "Volleyball",
+        "ground": "Hala Podpromie, Rzeszów"
+      },
+      {
+        "name": "Stal Rzeszów",
+        "sport": "Football",
+        "ground": "Stadion Stali, Rzeszów"
+      },
+      {
+        "name": "Stal Mielec",
+        "sport": "Football",
+        "ground": "Stadion Stali, Mielec"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Subcarpathian families are an important part of the Polish diaspora in the US, especially in Pennsylvania and New Jersey."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Podkarpacie",
+    "adjective": "Podkarpacie",
+    "people": "Podkarpaciacy",
+    "eyebrow": "Południowo-wschodnia Polska · Stolica: Rzeszów",
+    "title": "Podkarpacie —",
+    "title_em": "góry na końcu drogi.",
+    "tagline": "Rzeszów, Bieszczady i jedne z najdzikszych terenów Polski.",
+    "stats": [
+      [
+        "2,1 mln",
+        "mieszkańców"
+      ],
+      [
+        "17 800 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Podkarpacie leży na południowym wschodzie, u podnóża Karpat. Graniczy z Ukrainą i Słowacją, a jego wschodnie doliny od dawna zamieszkują Łemkowie, Bojkowie i Polacy.",
+      "Bieszczady znane są jako dziki zakątek Polski: ciche lasy, wysokie połoniny i niewiele dróg. Rzeszów to szybko rozwijające się miasto z przemysłem lotniczym."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Stolica regionu i ośrodek przemysłu lotniczego."
+        },
+        {
+          "note": "Stare miasto nad Sanem, blisko Ukrainy."
+        },
+        {
+          "note": "Skansen i galeria Beksińskiego."
+        },
+        {
+          "note": "Znane z hut szkła."
+        },
+        {
+          "note": "Brama do Bieszczadów."
+        },
+        {
+          "note": "Zamek i festiwal muzyczny."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Bieszczady",
+        "text": "Dzikie, słabo zaludnione góry z żubrami, niedźwiedziami i otwartymi połoninami."
+      },
+      {
+        "title": "Zamek w Łańcucie",
+        "text": "Jedna z najpiękniejszych polskich rezydencji arystokratycznych, ze słynną kolekcją powozów."
+      },
+      {
+        "title": "Przemyśl",
+        "text": "Jedno z najstarszych miast Polski, nad Sanem."
+      }
+    ],
+    "places": [
+      {
+        "name": "Zamek w Łańcucie",
+        "where": "Łańcut",
+        "text": "Pałac i park ze słynną kolekcją powozów."
+      },
+      {
+        "name": "Muzeum Budownictwa Ludowego",
+        "where": "Sanok",
+        "text": "Drewniane kościoły i chaty z karpackich wsi."
+      },
+      {
+        "name": "Bieszczadzki Park Narodowy",
+        "where": "Ustrzyki Górne",
+        "text": "Wysokie połoniny, lasy i szlaki."
+      },
+      {
+        "name": "Stare Miasto w Przemyślu",
+        "where": "Przemyśl",
+        "text": "Zamek na wzgórzu i stare kościoły."
+      }
+    ],
+    "food": [
+      "Proziaki",
+      "Kiszka ziemniaczana",
+      "Pstrąg",
+      "Pierogi",
+      "Szkło z Krosna"
+    ],
+    "festivals": [
+      {
+        "name": "Muzyczny Festiwal w Łańcucie",
+        "where": "Łańcut",
+        "when": "Maj",
+        "text": "Koncerty muzyki klasycznej w zamku."
+      },
+      {
+        "name": "Procesje Bożego Ciała",
+        "where": "Całe Podkarpacie",
+        "when": "Boże Ciało (data ruchoma)",
+        "text": "Procesje z kwiatami przez wsie i miasta."
+      }
+    ],
+    "sport": {
+      "intro": "Siatkówka to sport Rzeszowa: Asseco Resovia należy do najpopularniejszych klubów w Polsce.",
+      "clubs": [
+        {
+          "sport": "Siatkówka",
+          "ground": "Hala Podpromie, Rzeszów"
+        },
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Stali, Rzeszów"
+        },
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Stali, Mielec"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Rodziny z Podkarpacia to ważna część polskiej diaspory w USA, zwłaszcza w Pensylwanii i New Jersey."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

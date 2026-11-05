@@ -1,0 +1,286 @@
+{
+  "slug": "lodz",
+  "name": "Łódź",
+  "name_pl": "Łódzkie",
+  "adjective": "Łódź",
+  "people": "Łodzians",
+  "eyebrow": "Central Poland · Capital: Łódź",
+  "title": "Łódź —",
+  "title_em": "the city of film and factories.",
+  "tagline": "Textile mills turned into art spaces, the home of Polish cinema and the folk traditions of Łowicz.",
+  "stats": [
+    [
+      "2.4M",
+      "residents"
+    ],
+    [
+      "18,200 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "Łódź grew from a village into a major textile city in the 19th century, built by Polish, German and Jewish industrialists. Its red-brick mills and mansions have been converted into shops, galleries and flats.",
+    "The National Film School in Łódź trained directors such as Andrzej Wajda, Roman Polański and Krzysztof Kieślowski. Beyond the city, Łowicz is known for its striped folk costumes and paper cut-outs."
+  ],
+  "map": {
+    "viewBox": "244 245 178 174",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Łódź",
+        "lat": 51.7592,
+        "lon": 19.456,
+        "note": "The regional capital and former textile city.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Piotrków Trybunalski",
+        "lat": 51.4054,
+        "lon": 19.7032,
+        "note": "An old royal town and court seat."
+      },
+      {
+        "name": "Skierniewice",
+        "lat": 51.9548,
+        "lon": 20.15,
+        "note": "A palace town in the northeast."
+      },
+      {
+        "name": "Łowicz",
+        "lat": 52.1063,
+        "lon": 19.9448,
+        "note": "A folk-culture town with colourful costumes.",
+        "label": "left"
+      },
+      {
+        "name": "Sieradz",
+        "lat": 51.5953,
+        "lon": 18.7311,
+        "note": "One of Poland's oldest towns.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Piotrkowska Street",
+      "text": "A very long pedestrian street lined with 19th-century buildings, cafés and street art."
+    },
+    {
+      "title": "Manufaktura",
+      "text": "A former cotton mill complex converted into a shopping and culture centre."
+    },
+    {
+      "title": "Łódź Film School",
+      "text": "The training ground of many of Poland's greatest directors."
+    }
+  ],
+  "places": [
+    {
+      "name": "Piotrkowska Street",
+      "where": "Łódź",
+      "text": "The city's main street, with murals and old mansions."
+    },
+    {
+      "name": "Manufaktura",
+      "where": "Łódź",
+      "text": "A reconstructed cotton mill complex."
+    },
+    {
+      "name": "Księży Młyn",
+      "where": "Łódź",
+      "text": "A well-preserved textile workers' estate."
+    },
+    {
+      "name": "Łowicz",
+      "where": "Łowicz",
+      "text": "A folk museum and Corpus Christi procession."
+    }
+  ],
+  "food": [
+    "Łowicz preserves",
+    "Pierogi",
+    "Żurek",
+    "Cheesecake",
+    "Pączki"
+  ],
+  "festivals": [
+    {
+      "name": "Łódź Design Festival",
+      "where": "Łódź",
+      "month": 10,
+      "when": "October",
+      "text": "A big festival of design and architecture."
+    },
+    {
+      "name": "Four Cultures Festival",
+      "where": "Łódź",
+      "month": 9,
+      "when": "September",
+      "text": "Celebrates the Polish, Jewish, German and Russian heritage of the city."
+    },
+    {
+      "name": "Corpus Christi in Łowicz",
+      "where": "Łowicz",
+      "month": 6,
+      "when": "Corpus Christi (varies)",
+      "text": "Parishioners in striped folk costume.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Widzew and ŁKS fans share one of Poland's biggest rivalries.",
+    "clubs": [
+      {
+        "name": "Widzew Łódź",
+        "sport": "Football",
+        "ground": "Stadion Widzewa, Łódź"
+      },
+      {
+        "name": "ŁKS Łódź",
+        "sport": "Football",
+        "ground": "Stadion ŁKS, Łódź"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Łódź's Polish, Jewish, German and Russian history means its descendants are found in many countries, including the US, Israel, Germany and the UK."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Łódzkie",
+    "adjective": "Łódzkie",
+    "people": "Łodzianie",
+    "eyebrow": "Środkowa Polska · Stolica: Łódź",
+    "title": "Łódź —",
+    "title_em": "miasto filmu i fabryk.",
+    "tagline": "Fabryki włókiennicze zamienione w przestrzenie sztuki, dom polskiego kina i ludowe tradycje Łowicza.",
+    "stats": [
+      [
+        "2,4 mln",
+        "mieszkańców"
+      ],
+      [
+        "18 200 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Łódź z wioski wyrosła w XIX wieku na wielkie miasto włókiennicze, zbudowane przez polskich, niemieckich i żydowskich przemysłowców. Jej czerwone ceglane fabryki i pałace zamieniono w sklepy, galerie i mieszkania.",
+      "Państwowa Wyższa Szkoła Filmowa w Łodzi wykształciła takich reżyserów jak Andrzej Wajda, Roman Polański i Krzysztof Kieślowski. Poza miastem Łowicz słynie z pasiastych strojów ludowych i wycinanek."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Stolica regionu i dawne miasto włókiennicze."
+        },
+        {
+          "note": "Stare miasto królewskie i siedziba trybunału."
+        },
+        {
+          "note": "Miasto pałacowe na północnym wschodzie."
+        },
+        {
+          "note": "Miasto kultury ludowej z kolorowymi strojami."
+        },
+        {
+          "note": "Jedno z najstarszych miast Polski."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Ulica Piotrkowska",
+        "text": "Bardzo długi deptak z XIX-wiecznymi budynkami, kawiarniami i street artem."
+      },
+      {
+        "title": "Manufaktura",
+        "text": "Dawny kompleks fabryki bawełny zamieniony w centrum handlu i kultury."
+      },
+      {
+        "title": "Szkoła Filmowa w Łodzi",
+        "text": "Kuźnia talentów wielu największych polskich reżyserów."
+      }
+    ],
+    "places": [
+      {
+        "name": "Ulica Piotrkowska",
+        "where": "Łódź",
+        "text": "Główna ulica miasta, z muralami i starymi pałacami."
+      },
+      {
+        "name": "Manufaktura",
+        "where": "Łódź",
+        "text": "Zrekonstruowany kompleks fabryki bawełny."
+      },
+      {
+        "name": "Księży Młyn",
+        "where": "Łódź",
+        "text": "Dobrze zachowane osiedle robotników włókienniczych."
+      },
+      {
+        "name": "Łowicz",
+        "where": "Łowicz",
+        "text": "Muzeum ludowe i procesja Bożego Ciała."
+      }
+    ],
+    "food": [
+      "Przetwory z Łowicza",
+      "Pierogi",
+      "Żurek",
+      "Sernik",
+      "Pączki"
+    ],
+    "festivals": [
+      {
+        "name": "Łódź Design Festival",
+        "where": "Łódź",
+        "when": "Październik",
+        "text": "Duży festiwal designu i architektury."
+      },
+      {
+        "name": "Festiwal Dialogu Czterech Kultur",
+        "where": "Łódź",
+        "when": "Wrzesień",
+        "text": "Świętuje polskie, żydowskie, niemieckie i rosyjskie dziedzictwo miasta."
+      },
+      {
+        "name": "Boże Ciało w Łowiczu",
+        "where": "Łowicz",
+        "when": "Boże Ciało (data ruchoma)",
+        "text": "Parafianie w pasiastych strojach ludowych."
+      }
+    ],
+    "sport": {
+      "intro": "Kibice Widzewa i ŁKS-u dzielą jedną z największych polskich rywalizacji.",
+      "clubs": [
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Widzewa, Łódź"
+        },
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion ŁKS, Łódź"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Polsko-żydowsko-niemiecko-rosyjska historia Łodzi sprawia, że jej potomkowie mieszkają w wielu krajach, w tym w USA, Izraelu, Niemczech i Wielkiej Brytanii."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

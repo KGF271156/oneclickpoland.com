@@ -1,0 +1,282 @@
+{
+  "slug": "lower-silesia",
+  "name": "Lower Silesia",
+  "name_pl": "Dolnośląskie",
+  "adjective": "Lower Silesian",
+  "people": "Lower Silesians",
+  "eyebrow": "Southwest Poland · Capital: Wrocław",
+  "title": "Lower Silesia —",
+  "title_em": "castles, mountains and a city of bridges.",
+  "tagline": "Wrocław, its hundreds of tiny dwarf statues, and the castles and mountains that line the Czech border.",
+  "stats": [
+    [
+      "2.9M",
+      "residents"
+    ],
+    [
+      "19,900 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "Lower Silesia lies in the southwest and has changed hands many times: Bohemian, Habsburg, Prussian and German before becoming Polish in 1945. Wrocław, the capital, is a university city and was European Capital of Culture in 2016.",
+    "After 1945 many of the people who settled here had been displaced from eastern Poland, including Lwów, and brought their customs with them. That mix gives the region a distinctive identity and links many families to the former eastern territories."
+  ],
+  "map": {
+    "viewBox": "42 303 205 192",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Wrocław",
+        "lat": 51.1079,
+        "lon": 17.0385,
+        "note": "The regional capital, built across the Oder's islands.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Wałbrzych",
+        "lat": 50.784,
+        "lon": 16.2844,
+        "note": "Near Książ Castle and the Project Riese tunnels.",
+        "label": "left"
+      },
+      {
+        "name": "Legnica",
+        "lat": 51.207,
+        "lon": 16.1619,
+        "note": "Historic Piast town with a castle.",
+        "label": "left"
+      },
+      {
+        "name": "Jelenia Góra",
+        "lat": 50.9044,
+        "lon": 15.7194,
+        "note": "Gateway to the Karkonosze mountains.",
+        "label": "left"
+      },
+      {
+        "name": "Kłodzko",
+        "lat": 50.4343,
+        "lon": 16.6537,
+        "note": "A fortress town in the Kłodzko Valley."
+      },
+      {
+        "name": "Karpacz",
+        "lat": 50.777,
+        "lon": 15.75,
+        "note": "Mountain resort below Śnieżka."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Wrocław Market Square",
+      "text": "One of Europe's largest, with colourful gables and the Gothic town hall."
+    },
+    {
+      "title": "Wrocław's dwarfs",
+      "text": "Hundreds of small bronze statues hidden around the city, a symbol of the Orange Alternative protest movement."
+    },
+    {
+      "title": "Karkonosze and Książ",
+      "text": "Mountains with Poland's border peak Śnieżka, and a vast castle near Wałbrzych."
+    }
+  ],
+  "places": [
+    {
+      "name": "Wrocław Market Square",
+      "where": "Wrocław",
+      "text": "The Gothic town hall and colourful townhouses."
+    },
+    {
+      "name": "Centennial Hall",
+      "where": "Wrocław",
+      "text": "A UNESCO-listed early reinforced concrete hall from 1913."
+    },
+    {
+      "name": "Książ Castle",
+      "where": "Wałbrzych",
+      "text": "One of Poland's largest castles, set on a rocky outcrop."
+    },
+    {
+      "name": "Śnieżka",
+      "where": "Karpacz",
+      "text": "The highest peak of the Karkonosze, on the Czech border."
+    }
+  ],
+  "food": [
+    "Pierogi",
+    "Żurek",
+    "Craft beer",
+    "Lwów-style cheesecake (sernik)",
+    "Mountain trout"
+  ],
+  "festivals": [
+    {
+      "name": "Wratislavia Cantans",
+      "where": "Wrocław",
+      "month": 9,
+      "when": "September",
+      "text": "A festival of early and sacred music in the city's churches."
+    },
+    {
+      "name": "Wrocław Christmas Market",
+      "where": "Wrocław",
+      "month": 12,
+      "when": "Late November to December",
+      "text": "A big market on the main square."
+    }
+  ],
+  "sport": {
+    "intro": "Wrocław hosted matches of Euro 2012, and its football and speedway fans are very loud.",
+    "clubs": [
+      {
+        "name": "Śląsk Wrocław",
+        "sport": "Football",
+        "ground": "Tarczyński Arena, Wrocław"
+      },
+      {
+        "name": "Sparta Wrocław",
+        "sport": "Speedway",
+        "ground": "Olympic Stadium, Wrocław"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Families who were resettled here from eastern Poland (including Lwów and Vilnius) shaped Wrocław's culture, and many have relatives in Polish communities abroad."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Dolny Śląsk",
+    "adjective": "Dolny Śląsk",
+    "people": "Dolnoślązacy",
+    "eyebrow": "Południowo-zachodnia Polska · Stolica: Wrocław",
+    "title": "Dolny Śląsk —",
+    "title_em": "zamki, góry i miasto mostów.",
+    "tagline": "Wrocław, jego setki małych krasnali oraz zamki i góry wzdłuż granicy z Czechami.",
+    "stats": [
+      [
+        "2,9 mln",
+        "mieszkańców"
+      ],
+      [
+        "19 900 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Dolny Śląsk leży na południowym zachodzie i wielokrotnie zmieniał państwową przynależność: czeską, habsburską, pruską i niemiecką, zanim w 1945 roku stał się polski. Wrocław, stolica regionu, to miasto uniwersyteckie i Europejska Stolica Kultury 2016.",
+      "Po 1945 roku wielu osadników przybyło tu z wysiedlonych ziem wschodniej Polski, w tym ze Lwowa, i przywiozło ze sobą swoje zwyczaje. To połączenie nadaje regionowi wyjątkowy charakter i łączy wiele rodzin z dawnymi Kresami."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Stolica regionu, zbudowana na wyspach Odry."
+        },
+        {
+          "note": "W pobliżu Zamku Książ i podziemi Projektu Riese."
+        },
+        {
+          "note": "Historyczne miasto piastowskie z zamkiem."
+        },
+        {
+          "note": "Brama do Karkonoszy."
+        },
+        {
+          "note": "Twierdza w Kotlinie Kłodzkiej."
+        },
+        {
+          "note": "Górski kurort pod Śnieżką."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Rynek we Wrocławiu",
+        "text": "Jeden z największych w Europie, z kolorowymi szczytami i gotyckim ratuszem."
+      },
+      {
+        "title": "Wrocławskie krasnale",
+        "text": "Setki małych brązowych figurek ukrytych w mieście, symbol ruchu Pomarańczowa Alternatywa."
+      },
+      {
+        "title": "Karkonosze i Książ",
+        "text": "Góry ze Śnieżką, najwyższym szczytem Karkonoszy na granicy z Czechami, oraz ogromny zamek pod Wałbrzychem."
+      }
+    ],
+    "places": [
+      {
+        "name": "Rynek we Wrocławiu",
+        "where": "Wrocław",
+        "text": "Gotycki ratusz i kolorowe kamienice."
+      },
+      {
+        "name": "Hala Stulecia",
+        "where": "Wrocław",
+        "text": "Wpisana na listę UNESCO hala z żelbetu z 1913 roku."
+      },
+      {
+        "name": "Zamek Książ",
+        "where": "Wałbrzych",
+        "text": "Jeden z największych polskich zamków, na skalnym cyplu."
+      },
+      {
+        "name": "Śnieżka",
+        "where": "Karpacz",
+        "text": "Najwyższy szczyt Karkonoszy, na granicy z Czechami."
+      }
+    ],
+    "food": [
+      "Pierogi",
+      "Żurek",
+      "Piwo kraftowe",
+      "Lwowski sernik",
+      "Pstrąg górski"
+    ],
+    "festivals": [
+      {
+        "name": "Wratislavia Cantans",
+        "where": "Wrocław",
+        "when": "Wrzesień",
+        "text": "Festiwal muzyki dawnej i sakralnej w kościołach miasta."
+      },
+      {
+        "name": "Wrocławski Jarmark Bożonarodzeniowy",
+        "where": "Wrocław",
+        "when": "Od końca listopada do grudnia",
+        "text": "Wielki jarmark na rynku."
+      }
+    ],
+    "sport": {
+      "intro": "Wrocław gościł mecze Euro 2012, a tutejsi kibice piłki nożnej i żużla są bardzo głośni.",
+      "clubs": [
+        {
+          "sport": "Piłka nożna",
+          "ground": "Tarczyński Arena, Wrocław"
+        },
+        {
+          "sport": "Żużel",
+          "ground": "Stadion Olimpijski, Wrocław"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Rodziny przesiedlone tu z Kresów (w tym ze Lwowa i Wilna) ukształtowały kulturę Wrocławia, a wielu ich potomków ma krewnych w polskich społecznościach za granicą."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

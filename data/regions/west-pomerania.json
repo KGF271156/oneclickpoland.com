@@ -1,0 +1,262 @@
+{
+  "slug": "west-pomerania",
+  "name": "West Pomerania",
+  "name_pl": "Zachodniopomorskie",
+  "adjective": "West Pomeranian",
+  "people": "West Pomeranians",
+  "eyebrow": "Northwest Poland · Capital: Szczecin",
+  "title": "West Pomerania —",
+  "title_em": "the Baltic coast and Oder estuary.",
+  "tagline": "Szczecin's port and tall ships, Baltic spa towns and the long beaches of the northwest.",
+  "stats": [
+    [
+      "1.7M",
+      "residents"
+    ],
+    [
+      "22,900 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "West Pomerania stretches along the western Baltic and the Oder. Szczecin, a large river port, has a boulevard of Chrobry Terraces and a famous modern Philharmonic hall, and hosts the tall ships when they visit.",
+    "The coast has many of Poland's best-loved seaside resorts, including Kołobrzeg and Świnoujście, where Germans, Poles and Scandinavians holiday side by side."
+  ],
+  "map": {
+    "viewBox": "-1 25 199 218",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Szczecin",
+        "lat": 53.4285,
+        "lon": 14.5528,
+        "note": "The regional capital and a major river port.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Koszalin",
+        "lat": 54.1943,
+        "lon": 16.1715,
+        "note": "A university city near the coast."
+      },
+      {
+        "name": "Kołobrzeg",
+        "lat": 54.1757,
+        "lon": 15.5834,
+        "note": "Poland's best-known Baltic spa resort."
+      },
+      {
+        "name": "Świnoujście",
+        "lat": 53.91,
+        "lon": 14.2472,
+        "note": "A port and resort on islands in the Oder estuary.",
+        "label": "left"
+      },
+      {
+        "name": "Stargard",
+        "lat": 53.3359,
+        "lon": 15.0501,
+        "note": "A medieval walled town."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Szczecin",
+      "text": "A port city with grand boulevards and the award-winning Philharmonic building."
+    },
+    {
+      "title": "Baltic beaches and spa towns",
+      "text": "Kołobrzeg, Świnoujście and Międzyzdroje have wide sandy beaches and sea-air spas."
+    },
+    {
+      "title": "Paprykarz szczeciński",
+      "text": "A canned fish and rice spread from Szczecin that is a childhood memory for many Poles."
+    }
+  ],
+  "places": [
+    {
+      "name": "Chrobry Terraces",
+      "where": "Szczecin",
+      "text": "A waterfront promenade above the Oder."
+    },
+    {
+      "name": "Kołobrzeg beach and pier",
+      "where": "Kołobrzeg",
+      "text": "A long beach with a lighthouse and spas."
+    },
+    {
+      "name": "Wolin National Park",
+      "where": "Międzyzdroje",
+      "text": "Cliffs, forests and bison on the Baltic island of Wolin."
+    },
+    {
+      "name": "Świnoujście",
+      "where": "Świnoujście",
+      "text": "Ferries, fortifications and a wide beach."
+    }
+  ],
+  "food": [
+    "Paprykarz szczeciński",
+    "Smoked fish",
+    "Baltic herring",
+    "Plum cake",
+    "Fish and chips"
+  ],
+  "festivals": [
+    {
+      "name": "Sail Szczecin / Days of the Sea",
+      "where": "Szczecin",
+      "month": 6,
+      "when": "Summer, when tall ships are in port",
+      "text": "Tall ships gather on the Oder."
+    },
+    {
+      "name": "Kołobrzeg summer season",
+      "where": "Kołobrzeg",
+      "month": 7,
+      "when": "July–August",
+      "text": "Concerts and events along the seafront."
+    }
+  ],
+  "sport": {
+    "intro": "Pogoń Szczecin's supporters are among the most loyal in Poland.",
+    "clubs": [
+      {
+        "name": "Pogoń Szczecin",
+        "sport": "Football",
+        "ground": "Stadion Miejski, Szczecin"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Many West Pomeranian families moved here from eastern Poland after 1945, and Szczecin natives are well represented among Poles in the UK, Germany and Ireland."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Pomorze Zachodnie",
+    "adjective": "Pomorze Zachodnie",
+    "people": "Pomorzanie Zachodni",
+    "eyebrow": "Północno-zachodnia Polska · Stolica: Szczecin",
+    "title": "Pomorze Zachodnie —",
+    "title_em": "wybrzeże Bałtyku i ujście Odry.",
+    "tagline": "Port i żaglowce w Szczecinie, bałtyckie uzdrowiska i długie plaże północnego zachodu.",
+    "stats": [
+      [
+        "1,7 mln",
+        "mieszkańców"
+      ],
+      [
+        "22 900 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Pomorze Zachodnie rozciąga się wzdłuż zachodniego Bałtyku i Odry. Szczecin, duży port rzeczny, ma bulwar Wałów Chrobrego i słynną nowoczesną Filharmonię, a gości żaglowce, gdy zawijają do miasta.",
+      "Na wybrzeżu leży wiele najbardziej lubianych polskich kurortów, w tym Kołobrzeg i Świnoujście, gdzie obok siebie wypoczywają Niemcy, Polacy i Skandynawowie."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Stolica regionu i duży port rzeczny."
+        },
+        {
+          "note": "Miasto uniwersyteckie niedaleko wybrzeża."
+        },
+        {
+          "note": "Najbardziej znany polski bałtycki kurort uzdrowiskowy."
+        },
+        {
+          "note": "Port i kurort na wyspach w ujściu Odry."
+        },
+        {
+          "note": "Średniowieczne miasto z murami."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Szczecin",
+        "text": "Miasto portowe z wielkimi bulwarami i nagradzanym budynkiem Filharmonii."
+      },
+      {
+        "title": "Plaże i uzdrowiska nad Bałtykiem",
+        "text": "Kołobrzeg, Świnoujście i Międzyzdroje mają szerokie piaszczyste plaże i morskie uzdrowiska."
+      },
+      {
+        "title": "Paprykarz szczeciński",
+        "text": "Rybna pasta z ryżem z puszki ze Szczecina, która dla wielu Polaków jest wspomnieniem z dzieciństwa."
+      }
+    ],
+    "places": [
+      {
+        "name": "Wały Chrobrego",
+        "where": "Szczecin",
+        "text": "Nadbrzeżna promenada nad Odrą."
+      },
+      {
+        "name": "Plaża i molo w Kołobrzegu",
+        "where": "Kołobrzeg",
+        "text": "Długa plaża z latarnią morską i uzdrowiskami."
+      },
+      {
+        "name": "Woliński Park Narodowy",
+        "where": "Międzyzdroje",
+        "text": "Klify, lasy i żubry na bałtyckiej wyspie Wolin."
+      },
+      {
+        "name": "Świnoujście",
+        "where": "Świnoujście",
+        "text": "Promy, fortyfikacje i szeroka plaża."
+      }
+    ],
+    "food": [
+      "Paprykarz szczeciński",
+      "Ryby wędzone",
+      "Śledź bałtycki",
+      "Placek ze śliwkami",
+      "Ryba z frytkami"
+    ],
+    "festivals": [
+      {
+        "name": "Dni Morza / Sail Szczecin",
+        "where": "Szczecin",
+        "when": "Latem, gdy w porcie są żaglowce",
+        "text": "Żaglowce zbierają się na Odrze."
+      },
+      {
+        "name": "Sezon letni w Kołobrzegu",
+        "where": "Kołobrzeg",
+        "when": "Lipiec–sierpień",
+        "text": "Koncerty i wydarzenia wzdłuż promenady."
+      }
+    ],
+    "sport": {
+      "intro": "Kibice Pogoni Szczecin należą do najwierniejszych w Polsce.",
+      "clubs": [
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Miejski, Szczecin"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Wiele rodzin z Pomorza Zachodniego przeniosło się tu z wschodniej Polski po 1945 roku, a mieszkańcy Szczecina są dobrze reprezentowani wśród Polaków w Wielkiej Brytanii, Niemczech i Irlandii."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

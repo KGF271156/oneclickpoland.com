@@ -1,0 +1,308 @@
+{
+  "slug": "pomerania",
+  "name": "Pomerania",
+  "name_pl": "Pomorskie",
+  "adjective": "Pomeranian",
+  "people": "Pomeranians",
+  "eyebrow": "North Poland · Capital: Gdańsk",
+  "title": "Pomerania —",
+  "title_em": "the sea, Solidarity and the Kashubs.",
+  "tagline": "Gdańsk, birthplace of Solidarity, the longest wooden pier in Europe and the Kashubian lakeland.",
+  "stats": [
+    [
+      "2.4M",
+      "residents"
+    ],
+    [
+      "18,300 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "Pomerania is Poland's gateway to the Baltic. The Tri-City of Gdańsk, Sopot and Gdynia combines a medieval Hanseatic port, a seaside resort and a modern harbour. In August 1980 the Solidarity strikes at the Gdańsk Shipyard began the movement that helped end communism.",
+    "The Kashubs, a Slavic people with their own language, live in the hills and lakes west of Gdańsk, and Kashubian communities abroad are important in Canada and the United States."
+  ],
+  "map": {
+    "viewBox": "158 -1 203 156",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Gdańsk",
+        "lat": 54.352,
+        "lon": 18.6466,
+        "note": "The capital, with its Long Market and Main Town.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Gdynia",
+        "lat": 54.5189,
+        "lon": 18.5305,
+        "note": "A modernist port city, built from the 1920s.",
+        "label": "left"
+      },
+      {
+        "name": "Sopot",
+        "lat": 54.4416,
+        "lon": 18.5601,
+        "note": "A seaside resort with a famous pier.",
+        "label": "left"
+      },
+      {
+        "name": "Malbork",
+        "lat": 54.0356,
+        "lon": 19.0284,
+        "note": "The Teutonic castle on the Nogat river."
+      },
+      {
+        "name": "Słupsk",
+        "lat": 54.4641,
+        "lon": 17.0285,
+        "note": "In the west, near the Słowiński National Park.",
+        "label": "left"
+      },
+      {
+        "name": "Hel",
+        "lat": 54.6086,
+        "lon": 18.8004,
+        "note": "The tip of the Hel Peninsula.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Gdańsk shipyard and Solidarity",
+      "text": "Where the independent trade union Solidarity was born in 1980; the European Solidarity Centre tells the story."
+    },
+    {
+      "title": "Malbork Castle",
+      "text": "The largest brick castle in the world, built by the Teutonic Knights and listed by UNESCO."
+    },
+    {
+      "title": "Sopot pier",
+      "text": "The longest wooden pier in Europe, stretching into the Baltic."
+    }
+  ],
+  "places": [
+    {
+      "name": "Gdańsk Old Town",
+      "where": "Gdańsk",
+      "text": "The Long Market, Neptune's Fountain and Gothic St Mary's Church."
+    },
+    {
+      "name": "European Solidarity Centre",
+      "where": "Gdańsk",
+      "text": "A museum at the shipyard gates."
+    },
+    {
+      "name": "Malbork Castle",
+      "where": "Malbork",
+      "text": "The largest brick castle in the world."
+    },
+    {
+      "name": "Hel Peninsula",
+      "where": "Hel",
+      "text": "A long sandy spit with beaches, seals and kitesurfing."
+    }
+  ],
+  "food": [
+    "Smoked fish",
+    "Kashubian dishes",
+    "Baltic herring",
+    "Goldwasser liqueur",
+    "Fish soup",
+    "Flounder"
+  ],
+  "festivals": [
+    {
+      "name": "St Dominic's Fair",
+      "where": "Gdańsk",
+      "month": 8,
+      "when": "Late July to mid-August",
+      "text": "Europe's oldest and largest trade fair, running since 1260."
+    },
+    {
+      "name": "Open'er Festival",
+      "where": "Gdynia",
+      "month": 7,
+      "when": "Early July",
+      "text": "One of Europe's best music festivals, at the Gdynia airfield."
+    },
+    {
+      "name": "Solidarity anniversary",
+      "where": "Gdańsk",
+      "month": 8,
+      "when": "14 August onwards",
+      "text": "Marks the start of the 1980 shipyard strike.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Gdańsk hosted games at Euro 2012, and Lechia's black-and-green and Arka's yellow-and-blue are two fierce rivals.",
+    "clubs": [
+      {
+        "name": "Lechia Gdańsk",
+        "sport": "Football",
+        "ground": "Polsat Plus Arena Gdańsk"
+      },
+      {
+        "name": "Arka Gdynia",
+        "sport": "Football",
+        "ground": "Stadion Miejski, Gdynia"
+      },
+      {
+        "name": "Trefl Gdynia",
+        "sport": "Basketball / Sopot",
+        "ground": "Hala Sportowa, Gdynia"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Kashubian families settled in Ontario (Wilno) and Minnesota (Winona), and Kashubian clubs, language classes and festivals continue there today."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Pomorze",
+    "adjective": "Pomorze",
+    "people": "Pomorzanie",
+    "eyebrow": "Północna Polska · Stolica: Gdańsk",
+    "title": "Pomorze —",
+    "title_em": "morze, Solidarność i Kaszubi.",
+    "tagline": "Gdańsk, kolebka Solidarności, najdłuższe drewniane molo w Europie i kaszubskie pojezierze.",
+    "stats": [
+      [
+        "2,4 mln",
+        "mieszkańców"
+      ],
+      [
+        "18 300 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Pomorze to polska brama na Bałtyk. Trójmiasto, czyli Gdańsk, Sopot i Gdynia, łączy średniowieczny port hanzeatycki, nadmorski kurort i nowoczesny port. W sierpniu 1980 roku strajk w Stoczni Gdańskiej zapoczątkował ruch Solidarności, który pomógł zakończyć komunizm.",
+      "Kaszubi, naród słowiański z własnym językiem, mieszkają we wzgórzach i wśród jezior na zachód od Gdańska, a społeczności kaszubskie za granicą są ważne w Kanadzie i Stanach Zjednoczonych."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Stolica regionu, z Długim Targiem i Głównym Miastem."
+        },
+        {
+          "note": "Modernistyczne miasto portowe, budowane od lat 20."
+        },
+        {
+          "note": "Nadmorski kurort ze słynnym molo."
+        },
+        {
+          "note": "Zamek krzyżacki nad Nogatem."
+        },
+        {
+          "note": "Na zachodzie, w pobliżu Słowińskiego Parku Narodowego."
+        },
+        {
+          "note": "Czubek Półwyspu Helskiego."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Stocznia Gdańska i Solidarność",
+        "text": "Miejsce narodzin niezależnego związku zawodowego Solidarność w 1980 roku; Europejskie Centrum Solidarności opowiada tę historię."
+      },
+      {
+        "title": "Zamek w Malborku",
+        "text": "Największy ceglany zamek na świecie, zbudowany przez Krzyżaków i wpisany na listę UNESCO."
+      },
+      {
+        "title": "Molo w Sopocie",
+        "text": "Najdłuższe drewniane molo w Europie, wcinające się w Bałtyk."
+      }
+    ],
+    "places": [
+      {
+        "name": "Stare Miasto w Gdańsku",
+        "where": "Gdańsk",
+        "text": "Długi Targ, Fontanna Neptuna i gotycki kościół Mariacki."
+      },
+      {
+        "name": "Europejskie Centrum Solidarności",
+        "where": "Gdańsk",
+        "text": "Muzeum przy bramie stoczni."
+      },
+      {
+        "name": "Zamek w Malborku",
+        "where": "Malbork",
+        "text": "Największy ceglany zamek na świecie."
+      },
+      {
+        "name": "Półwysep Helski",
+        "where": "Hel",
+        "text": "Długa piaszczysta mierzeja z plażami, fokami i kitesurfingiem."
+      }
+    ],
+    "food": [
+      "Ryby wędzone",
+      "Kuchnia kaszubska",
+      "Śledź bałtycki",
+      "Goldwasser",
+      "Zupa rybna",
+      "Flądra"
+    ],
+    "festivals": [
+      {
+        "name": "Jarmark Dominikański",
+        "where": "Gdańsk",
+        "when": "Od końca lipca do połowy sierpnia",
+        "text": "Najstarszy i największy jarmark w Europie, odbywa się od 1260 roku."
+      },
+      {
+        "name": "Open'er Festival",
+        "where": "Gdynia",
+        "when": "Początek lipca",
+        "text": "Jeden z najlepszych festiwali muzycznych w Europie, na lotnisku w Gdyni."
+      },
+      {
+        "name": "Rocznica Solidarności",
+        "where": "Gdańsk",
+        "when": "Od 14 sierpnia",
+        "text": "Upamiętnia początek strajku w stoczni w 1980 roku."
+      }
+    ],
+    "sport": {
+      "intro": "Gdańsk gościł mecze Euro 2012, a biało-zielona Lechia i żółto-niebieska Arka to dwaj zażarci rywale.",
+      "clubs": [
+        {
+          "sport": "Piłka nożna",
+          "ground": "Polsat Plus Arena Gdańsk"
+        },
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Miejski, Gdynia"
+        },
+        {
+          "sport": "Koszykówka",
+          "ground": "Hala Sportowa, Gdynia"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Rodziny kaszubskie osiedliły się w Ontario (Wilno) i Minnesocie (Winona), a kaszubskie kluby, kursy języka i festiwale działają tam do dziś."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

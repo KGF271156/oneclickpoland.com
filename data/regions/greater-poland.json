@@ -1,0 +1,281 @@
+{
+  "slug": "greater-poland",
+  "name": "Greater Poland",
+  "name_pl": "Wielkopolskie",
+  "adjective": "Greater Poland",
+  "people": "Greater Poles",
+  "eyebrow": "West Poland · Capital: Poznań",
+  "title": "Greater Poland —",
+  "title_em": "where Poland began.",
+  "tagline": "Gniezno, the first capital, Poznań's famous billy goats and the croissants that appear every 11 November.",
+  "stats": [
+    [
+      "3.5M",
+      "residents"
+    ],
+    [
+      "29,800 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "Greater Poland (Wielkopolska) is the cradle of the Polish state: Gniezno and Poznań were the seats of the first Piast rulers in the 10th century, and the first Polish bishopric was set up at Poznań in 968.",
+    "The region has a reputation for hard work and practicality. Poznań trades fairs and its university draw people from all over Poland, and families from the region are found in the Polish communities of Chicago and Detroit."
+  ],
+  "map": {
+    "viewBox": "97 113 235 285",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Poznań",
+        "lat": 52.4064,
+        "lon": 16.9252,
+        "note": "The regional capital and a major university and fair city.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Gniezno",
+        "lat": 52.5348,
+        "lon": 17.5826,
+        "note": "First capital of Poland."
+      },
+      {
+        "name": "Kalisz",
+        "lat": 51.7611,
+        "lon": 18.091,
+        "note": "Often called Poland's oldest town."
+      },
+      {
+        "name": "Konin",
+        "lat": 52.223,
+        "lon": 18.2511,
+        "note": "On the Warta river in the east."
+      },
+      {
+        "name": "Leszno",
+        "lat": 51.8418,
+        "lon": 16.5749,
+        "note": "Southwest, known for speedway.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Gniezno",
+      "text": "The first capital of Poland and still the seat of the Primate; the cathedral doors are famous."
+    },
+    {
+      "title": "Poznań's goats",
+      "text": "Two mechanical goats butt heads from the town hall tower every day at noon."
+    },
+    {
+      "title": "Rogale świętomarcińskie",
+      "text": "Poznań's St Martin's croissants, filled with white poppy seed and protected by EU designation."
+    }
+  ],
+  "places": [
+    {
+      "name": "Poznań Old Market Square",
+      "where": "Poznań",
+      "text": "Colourful townhouses and the Renaissance town hall."
+    },
+    {
+      "name": "Gniezno Cathedral",
+      "where": "Gniezno",
+      "text": "The Gothic cathedral with Romanesque bronze doors from c. 1175."
+    },
+    {
+      "name": "Ostrów Lednicki",
+      "where": "Lednica",
+      "text": "An island with the remains of an early Piast stronghold."
+    },
+    {
+      "name": "Kórnik Castle",
+      "where": "Kórnik",
+      "text": "Neo-Gothic castle and arboretum near Poznań."
+    }
+  ],
+  "food": [
+    "Rogale świętomarcińskie",
+    "Pyry z gzikiem",
+    "Czernina",
+    "Poznań 'szneka z glancem'",
+    "Goose for St Martin's"
+  ],
+  "festivals": [
+    {
+      "name": "St Martin's Day",
+      "where": "Poznań",
+      "month": 11,
+      "when": "11 November",
+      "text": "Poznań's biggest local holiday: parades and the famous croissants.",
+      "diaspora": true
+    },
+    {
+      "name": "Malta Festival",
+      "where": "Poznań",
+      "month": 6,
+      "when": "June–July",
+      "text": "International theatre and arts festival around the Malta lake."
+    }
+  ],
+  "sport": {
+    "intro": "Lech Poznań's blue-and-white supporters are among the most devoted in Poland, and speedway is a regional passion.",
+    "clubs": [
+      {
+        "name": "Lech Poznań",
+        "sport": "Football",
+        "ground": "Stadion Poznań (Enea Stadion)"
+      },
+      {
+        "name": "Warta Poznań",
+        "sport": "Football",
+        "ground": "Stadion Warty, Poznań"
+      },
+      {
+        "name": "Unia Leszno",
+        "sport": "Speedway",
+        "ground": "Stadion Alfreda Smoczyka, Leszno"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Greater Poland families helped found many Polish parishes in Chicago and Detroit, and the Polish diaspora in Germany and the UK includes many from the Poznań area."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Wielkopolska",
+    "adjective": "Wielkopolska",
+    "people": "Wielkopolanie",
+    "eyebrow": "Zachodnia Polska · Stolica: Poznań",
+    "title": "Wielkopolska —",
+    "title_em": "tu zaczęła się Polska.",
+    "tagline": "Gniezno, pierwsza stolica, słynne poznańskie koziołki i rogale, które pojawiają się co roku 11 listopada.",
+    "stats": [
+      [
+        "3,5 mln",
+        "mieszkańców"
+      ],
+      [
+        "29 800 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Wielkopolska jest kolebką państwa polskiego: Gniezno i Poznań były siedzibami pierwszych Piastów w X wieku, a pierwsze polskie biskupstwo powstało w Poznaniu w 968 roku.",
+      "Region słynie z pracowitości i praktyczności. Targi poznańskie i uniwersytet przyciągają ludzi z całej Polski, a rodziny z regionu można spotkać w polskich społecznościach Chicago i Detroit."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Stolica regionu, ważne miasto uniwersyteckie i targowe."
+        },
+        {
+          "note": "Pierwsza stolica Polski."
+        },
+        {
+          "note": "Często nazywane najstarszym miastem Polski."
+        },
+        {
+          "note": "Nad Wartą, na wschodzie."
+        },
+        {
+          "note": "Na południowym zachodzie, znane z żużla."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Gniezno",
+        "text": "Pierwsza stolica Polski i do dziś siedziba prymasa; słynne są drzwi katedry."
+      },
+      {
+        "title": "Poznańskie koziołki",
+        "text": "Dwa mechaniczne koziołki trykają się z wieży ratusza codziennie w samo południe."
+      },
+      {
+        "title": "Rogale świętomarcińskie",
+        "text": "Poznańskie rogale z białym makiem, chronione oznaczeniem UE."
+      }
+    ],
+    "places": [
+      {
+        "name": "Stary Rynek w Poznaniu",
+        "where": "Poznań",
+        "text": "Kolorowe kamieniczki i renesansowy ratusz."
+      },
+      {
+        "name": "Katedra w Gnieźnie",
+        "where": "Gniezno",
+        "text": "Gotycka katedra z romańskimi drzwiami z brązu z około 1175 roku."
+      },
+      {
+        "name": "Ostrów Lednicki",
+        "where": "Lednica",
+        "text": "Wyspa z pozostałościami wczesnopiastowskiego grodu."
+      },
+      {
+        "name": "Zamek w Kórniku",
+        "where": "Kórnik",
+        "text": "Neogotycki zamek i arboretum pod Poznaniem."
+      }
+    ],
+    "food": [
+      "Rogale świętomarcińskie",
+      "Pyry z gzikiem",
+      "Czernina",
+      "Szneka z glancem",
+      "Gęsina na św. Marcina"
+    ],
+    "festivals": [
+      {
+        "name": "Dzień Świętego Marcina",
+        "where": "Poznań",
+        "when": "11 listopada",
+        "text": "Największe lokalne święto Poznania: pochody i słynne rogale."
+      },
+      {
+        "name": "Malta Festival",
+        "where": "Poznań",
+        "when": "Czerwiec–lipiec",
+        "text": "Międzynarodowy festiwal teatru i sztuki wokół jeziora Malta."
+      }
+    ],
+    "sport": {
+      "intro": "Niebiesko-biali kibice Lecha Poznań należą do najbardziej oddanych w Polsce, a żużel to regionalna pasja.",
+      "clubs": [
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Poznań (Enea Stadion)"
+        },
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Warty, Poznań"
+        },
+        {
+          "sport": "Żużel",
+          "ground": "Stadion im. Alfreda Smoczyka, Leszno"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Rodziny z Wielkopolski pomagały zakładać wiele polskich parafii w Chicago i Detroit, a wśród Polonii w Niemczech i Wielkiej Brytanii jest wielu mieszkańców okolic Poznania."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

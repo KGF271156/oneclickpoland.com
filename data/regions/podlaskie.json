@@ -1,0 +1,272 @@
+{
+  "slug": "podlaskie",
+  "name": "Podlaskie",
+  "name_pl": "Podlaskie",
+  "adjective": "Podlaskie",
+  "people": "Podlaskie Poles",
+  "eyebrow": "Northeast Poland · Capital: Białystok",
+  "title": "Podlaskie —",
+  "title_em": "forests, bison and borderlands.",
+  "tagline": "The last primeval forest in Europe, Tatar mosques, Orthodox churches and a landscape of lakes and wetlands.",
+  "stats": [
+    [
+      "1.2M",
+      "residents"
+    ],
+    [
+      "20,200 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "Podlaskie, in the northeast, is one of Poland's greenest regions. The Białowieża Forest is the last remaining fragment of primeval lowland forest in Europe and home to the European bison.",
+    "This is a land of mixed faiths: Catholic, Orthodox, Jewish and Muslim communities have lived side by side for centuries, and the Tatar villages of Bohoniki and Kruszyniany have wooden mosques."
+  ],
+  "map": {
+    "viewBox": "458 40 169 238",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Białystok",
+        "lat": 53.1325,
+        "lon": 23.1688,
+        "note": "The regional capital and its Branicki Palace.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Suwałki",
+        "lat": 54.1118,
+        "lon": 22.9309,
+        "note": "One of the coldest places in Poland."
+      },
+      {
+        "name": "Łomża",
+        "lat": 53.1781,
+        "lon": 22.059,
+        "note": "An old town on the Narew river.",
+        "label": "left"
+      },
+      {
+        "name": "Augustów",
+        "lat": 53.8438,
+        "lon": 22.9795,
+        "note": "Lakes and the Augustów Canal."
+      },
+      {
+        "name": "Tykocin",
+        "lat": 53.2061,
+        "lon": 22.7714,
+        "note": "A castle and 17th-century synagogue.",
+        "label": "left"
+      },
+      {
+        "name": "Białowieża",
+        "lat": 52.7,
+        "lon": 23.8667,
+        "note": "Gateway to the primeval forest."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Białowieża Forest",
+      "text": "A UNESCO-listed primeval forest and the home of the European bison (żubr)."
+    },
+    {
+      "title": "Tatar villages",
+      "text": "Bohoniki and Kruszyniany, with their wooden mosques, have been Polish Tatar centres since the 17th century."
+    },
+    {
+      "title": "The Augustów Canal",
+      "text": "A 19th-century waterway linking lakes and rivers, good for kayaking."
+    }
+  ],
+  "places": [
+    {
+      "name": "Białowieża National Park",
+      "where": "Białowieża",
+      "text": "Walk with a licensed guide through the primeval forest."
+    },
+    {
+      "name": "Branicki Palace",
+      "where": "Białystok",
+      "text": "The 'Versailles of Podlasie'."
+    },
+    {
+      "name": "Tykocin",
+      "where": "Tykocin",
+      "text": "A well-preserved synagogue and castle."
+    },
+    {
+      "name": "Kruszyniany",
+      "where": "Kruszyniany",
+      "text": "A Tatar village with a wooden mosque."
+    }
+  ],
+  "food": [
+    "Kartacze",
+    "Babka ziemniaczana",
+    "Sękacz",
+    "Tatar kołduny",
+    "Żubrówka (bison grass vodka)"
+  ],
+  "festivals": [
+    {
+      "name": "Hajnówka Orthodox Church Music Festival",
+      "where": "Hajnówka",
+      "month": 5,
+      "when": "May",
+      "text": "A festival of Orthodox church music."
+    },
+    {
+      "name": "Białowieża Bison Days",
+      "where": "Białowieża",
+      "month": 9,
+      "when": "Autumn",
+      "text": "Guided forest walks and the bison rut."
+    }
+  ],
+  "sport": {
+    "intro": "Jagiellonia won the Polish league for the first time in 2024.",
+    "clubs": [
+      {
+        "name": "Jagiellonia Białystok",
+        "sport": "Football",
+        "ground": "Stadion Miejski, Białystok"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Podlaskie families of Polish, Belarusian and Tatar descent are found in the US, Canada and the UK, and Tatar traditions are cherished in Poland's small Muslim community."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Podlasie",
+    "adjective": "Podlasie",
+    "people": "Podlasianie",
+    "eyebrow": "Północno-wschodnia Polska · Stolica: Białystok",
+    "title": "Podlasie —",
+    "title_em": "lasy, żubry i pogranicze.",
+    "tagline": "Ostatnia pierwotna puszcza w Europie, tatarskie meczety, cerkwie oraz krajobraz jezior i bagien.",
+    "stats": [
+      [
+        "1,2 mln",
+        "mieszkańców"
+      ],
+      [
+        "20 200 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Podlasie na północnym wschodzie to jeden z najbardziej zielonych regionów Polski. Puszcza Białowieska jest ostatnim fragmentem pierwotnego lasu nizinnego w Europie i domem żubra.",
+      "To kraina mieszanych wyznań: katolicy, prawosławni, Żydzi i muzułmanie od wieków żyli tu obok siebie, a tatarskie wsie Bohoniki i Kruszyniany mają drewniane meczety."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Stolica regionu i Pałac Branickich."
+        },
+        {
+          "note": "Jedno z najzimniejszych miejsc w Polsce."
+        },
+        {
+          "note": "Stare miasto nad Narwią."
+        },
+        {
+          "note": "Jeziora i Kanał Augustowski."
+        },
+        {
+          "note": "Zamek i XVII-wieczna synagoga."
+        },
+        {
+          "note": "Brama do pierwotnej puszczy."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Puszcza Białowieska",
+        "text": "Wpisana na listę UNESCO pierwotna puszcza i dom żubra."
+      },
+      {
+        "title": "Tatarskie wsie",
+        "text": "Bohoniki i Kruszyniany z drewnianymi meczetami są polskimi ośrodkami Tatarów od XVII wieku."
+      },
+      {
+        "title": "Kanał Augustowski",
+        "text": "XIX-wieczna droga wodna łącząca jeziora i rzeki, świetna na kajaki."
+      }
+    ],
+    "places": [
+      {
+        "name": "Białowieski Park Narodowy",
+        "where": "Białowieża",
+        "text": "Spacer z licencjonowanym przewodnikiem po pierwotnej puszczy."
+      },
+      {
+        "name": "Pałac Branickich",
+        "where": "Białystok",
+        "text": "„Wersal Podlasia”."
+      },
+      {
+        "name": "Tykocin",
+        "where": "Tykocin",
+        "text": "Dobrze zachowana synagoga i zamek."
+      },
+      {
+        "name": "Kruszyniany",
+        "where": "Kruszyniany",
+        "text": "Tatarska wieś z drewnianym meczetem."
+      }
+    ],
+    "food": [
+      "Kartacze",
+      "Babka ziemniaczana",
+      "Sękacz",
+      "Kołduny tatarskie",
+      "Żubrówka"
+    ],
+    "festivals": [
+      {
+        "name": "Międzynarodowy Festiwal Muzyki Cerkiewnej",
+        "where": "Hajnówka",
+        "when": "Maj",
+        "text": "Festiwal muzyki cerkiewnej."
+      },
+      {
+        "name": "Dni Żubra",
+        "where": "Białowieża",
+        "when": "Jesień",
+        "text": "Spacery z przewodnikiem po lesie i rykowisko żubrów."
+      }
+    ],
+    "sport": {
+      "intro": "Jagiellonia po raz pierwszy zdobyła mistrzostwo Polski w 2024 roku.",
+      "clubs": [
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Miejski, Białystok"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Rodziny podlaskie pochodzenia polskiego, białoruskiego i tatarskiego mieszkają w USA, Kanadzie i Wielkiej Brytanii, a tradycje tatarskie są pielęgnowane w niewielkiej polskiej społeczności muzułmańskiej."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

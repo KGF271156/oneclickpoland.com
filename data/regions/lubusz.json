@@ -1,0 +1,280 @@
+{
+  "slug": "lubusz",
+  "name": "Lubusz",
+  "name_pl": "Lubuskie",
+  "adjective": "Lubusz",
+  "people": "Lubusz Poles",
+  "eyebrow": "West Poland · Capitals: Gorzów Wielkopolski and Zielona Góra",
+  "title": "Lubusz —",
+  "title_em": "Poland's wine country.",
+  "tagline": "Vineyards at Zielona Góra, the giant Christ in Świebodzin and forests along the German border.",
+  "stats": [
+    [
+      "1.0M",
+      "residents"
+    ],
+    [
+      "14,000 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "Lubusz is in the west, on the border with Germany, and is one of Poland's most forested regions. It has two capitals: Gorzów Wielkopolski, the voivode's seat, and Zielona Góra, home of Poland's wine tradition.",
+    "Świebodzin has a 33-metre statue of Christ the King, among the tallest in the world, and the Muskau Park, shared with Germany, is a UNESCO-listed landscape garden."
+  ],
+  "map": {
+    "viewBox": "25 171 137 197",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Gorzów Wielkopolski",
+        "lat": 52.7368,
+        "lon": 15.2288,
+        "note": "A river city on the Warta.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Zielona Góra",
+        "lat": 51.9356,
+        "lon": 15.5062,
+        "note": "The 'wine capital' of Poland.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Świebodzin",
+        "lat": 52.2451,
+        "lon": 15.5337,
+        "note": "Home to the Christ the King statue."
+      },
+      {
+        "name": "Kostrzyn nad Odrą",
+        "lat": 52.5873,
+        "lon": 14.6428,
+        "note": "Host of Przystanek Woodstock from 2004 to 2018.",
+        "label": "left"
+      },
+      {
+        "name": "Łęknica",
+        "lat": 51.5453,
+        "lon": 14.7189,
+        "note": "Gateway to Muskau Park."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Zielona Góra wine",
+      "text": "The city's vineyards date back centuries, and the Winobranie (Wine Harvest) festival draws crowds every September."
+    },
+    {
+      "title": "Christ the King, Świebodzin",
+      "text": "A 33-metre statue on a mound, with a crown bringing the total to 36 metres."
+    },
+    {
+      "title": "Muskau Park",
+      "text": "A landscape garden on the Nysa river, shared between Poland and Germany."
+    }
+  ],
+  "places": [
+    {
+      "name": "Zielona Góra Old Town",
+      "where": "Zielona Góra",
+      "text": "Wine-themed streets and the Palmiarnia."
+    },
+    {
+      "name": "Muskau Park",
+      "where": "Łęknica",
+      "text": "A UNESCO-listed garden spanning the border."
+    },
+    {
+      "name": "Christ the King statue",
+      "where": "Świebodzin",
+      "text": "A hilltop statue visible from far away."
+    },
+    {
+      "name": "Łagów Castle",
+      "where": "Łagów",
+      "text": "A Knights Hospitaller castle between two lakes."
+    }
+  ],
+  "food": [
+    "Lubusz wine",
+    "Fish from the lakes",
+    "Pierogi",
+    "Plum dishes"
+  ],
+  "festivals": [
+    {
+      "name": "Winobranie (Wine Harvest Festival)",
+      "where": "Zielona Góra",
+      "month": 9,
+      "when": "September",
+      "text": "Parades, tastings and the crowning of the wine harvest."
+    },
+    {
+      "name": "Lubusz Film Summer",
+      "where": "Łagów",
+      "month": 7,
+      "when": "July",
+      "text": "A festival of Polish and international cinema."
+    }
+  ],
+  "sport": {
+    "intro": "Speedway is the top sport here, and both capitals have strong clubs.",
+    "clubs": [
+      {
+        "name": "Stal Gorzów",
+        "sport": "Speedway",
+        "ground": "Stadion im. Edwarda Jancarza, Gorzów"
+      },
+      {
+        "name": "Falubaz Zielona Góra",
+        "sport": "Speedway",
+        "ground": "Stadion MOSiR, Zielona Góra"
+      },
+      {
+        "name": "Zastal Zielona Góra",
+        "sport": "Basketball",
+        "ground": "CRS Hala, Zielona Góra"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Many Lubusz families moved here from eastern Poland after 1945, and Zielona Góra natives are part of the Polish communities in Germany and the UK."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Ziemia Lubuska",
+    "adjective": "Ziemia Lubuska",
+    "people": "Lubuszanie",
+    "eyebrow": "Zachodnia Polska · Stolice: Gorzów Wielkopolski i Zielona Góra",
+    "title": "Ziemia Lubuska —",
+    "title_em": "polska kraina wina.",
+    "tagline": "Winnice pod Zieloną Górą, gigantyczny Chrystus w Świebodzinie i lasy wzdłuż granicy z Niemcami.",
+    "stats": [
+      [
+        "1,0 mln",
+        "mieszkańców"
+      ],
+      [
+        "14 000 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Ziemia Lubuska leży na zachodzie, przy granicy z Niemcami, i jest jednym z najbardziej zalesionych regionów Polski. Ma dwie stolice: Gorzów Wielkopolski, siedzibę wojewody, i Zieloną Górę, dom polskiej tradycji winiarskiej.",
+      "W Świebodzinie stoi 33-metrowy pomnik Chrystusa Króla, jeden z najwyższych na świecie, a Park Mużakowski, wspólny z Niemcami, to wpisany na listę UNESCO ogród krajobrazowy."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Miasto nad Wartą."
+        },
+        {
+          "note": "„Stolica wina” w Polsce."
+        },
+        {
+          "note": "Miejsce pomnika Chrystusa Króla."
+        },
+        {
+          "note": "Gospodarz Przystanku Woodstock w latach 2004–2018."
+        },
+        {
+          "note": "Brama do Parku Mużakowskiego."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Wino z Zielonej Góry",
+        "text": "Winnice miasta mają wielowiekową historię, a Winobranie co roku we wrześniu przyciąga tłumy."
+      },
+      {
+        "title": "Chrystus Król w Świebodzinie",
+        "text": "33-metrowy pomnik na wzgórzu, z koroną mierzący razem 36 metrów."
+      },
+      {
+        "title": "Park Mużakowski",
+        "text": "Ogród krajobrazowy nad Nysą Łużycką, wspólny dla Polski i Niemiec."
+      }
+    ],
+    "places": [
+      {
+        "name": "Stare Miasto w Zielonej Górze",
+        "where": "Zielona Góra",
+        "text": "Ulice w klimacie wina i Palmiarnia."
+      },
+      {
+        "name": "Park Mużakowski",
+        "where": "Łęknica",
+        "text": "Wpisany na listę UNESCO ogród po obu stronach granicy."
+      },
+      {
+        "name": "Pomnik Chrystusa Króla",
+        "where": "Świebodzin",
+        "text": "Pomnik na wzgórzu widoczny z daleka."
+      },
+      {
+        "name": "Zamek w Łagowie",
+        "where": "Łagów",
+        "text": "Zamek joannitów między dwoma jeziorami."
+      }
+    ],
+    "food": [
+      "Wino lubuskie",
+      "Ryby z jezior",
+      "Pierogi",
+      "Potrawy ze śliwek"
+    ],
+    "festivals": [
+      {
+        "name": "Winobranie",
+        "where": "Zielona Góra",
+        "when": "Wrzesień",
+        "text": "Pochody, degustacje i ukoronowanie winobrania."
+      },
+      {
+        "name": "Lubuskie Lato Filmowe",
+        "where": "Łagów",
+        "when": "Lipiec",
+        "text": "Festiwal polskiego i międzynarodowego kina."
+      }
+    ],
+    "sport": {
+      "intro": "Żużel to tu sport numer jeden, a obie stolice mają silne kluby.",
+      "clubs": [
+        {
+          "sport": "Żużel",
+          "ground": "Stadion im. Edwarda Jancarza, Gorzów"
+        },
+        {
+          "sport": "Żużel",
+          "ground": "Stadion MOSiR, Zielona Góra"
+        },
+        {
+          "sport": "Koszykówka",
+          "ground": "Hala CRS, Zielona Góra"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Wiele rodzin lubuskich przeniosło się tu z wschodniej Polski po 1945 roku, a rodowici zielonogórzanie należą do polskich społeczności w Niemczech i Wielkiej Brytanii."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

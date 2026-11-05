@@ -1,0 +1,303 @@
+{
+  "slug": "lublin",
+  "name": "Lublin",
+  "name_pl": "Lubelskie",
+  "adjective": "Lublin",
+  "people": "Lublin Poles",
+  "eyebrow": "East Poland · Capital: Lublin",
+  "title": "Lublin —",
+  "title_em": "the eastern gate.",
+  "tagline": "Renaissance Zamość, the artists' town of Kazimierz Dolny and the gateway to the eastern borderlands.",
+  "stats": [
+    [
+      "2.0M",
+      "residents"
+    ],
+    [
+      "25,100 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "The Lublin region lies along the Vistula and the Bug and has long been a meeting place of Poles, Ukrainians, Jews and others. The 1569 Union of Lublin joined Poland and Lithuania into a single commonwealth.",
+    "Zamość, a Renaissance town designed by an Italian architect in the 16th century, is listed by UNESCO, and Kazimierz Dolny has been an artists' retreat for a century."
+  ],
+  "map": {
+    "viewBox": "459 253 180 227",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Lublin",
+        "lat": 51.2465,
+        "lon": 22.5684,
+        "note": "The regional capital and an old university city.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Zamość",
+        "lat": 50.7231,
+        "lon": 23.252,
+        "note": "The Renaissance town."
+      },
+      {
+        "name": "Chełm",
+        "lat": 51.1431,
+        "lon": 23.4716,
+        "note": "Chalk tunnels beneath the old town."
+      },
+      {
+        "name": "Puławy",
+        "lat": 51.4166,
+        "lon": 21.9697,
+        "note": "The Czartoryski palace and park.",
+        "label": "left"
+      },
+      {
+        "name": "Kazimierz Dolny",
+        "lat": 51.3225,
+        "lon": 21.9525,
+        "note": "An artists' town on the Vistula.",
+        "label": "left"
+      },
+      {
+        "name": "Biała Podlaska",
+        "lat": 52.0324,
+        "lon": 23.1164,
+        "note": "Near the eastern border."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Zamość",
+      "text": "An ideal Renaissance town founded in 1580, nicknamed the 'Padua of the North'."
+    },
+    {
+      "title": "Kazimierz Dolny",
+      "text": "A picturesque Vistula town of artists and cafés, known for its rooster-shaped bread."
+    },
+    {
+      "title": "Union of Lublin",
+      "text": "The 1569 agreement that created the Polish–Lithuanian Commonwealth."
+    }
+  ],
+  "places": [
+    {
+      "name": "Lublin Old Town",
+      "where": "Lublin",
+      "text": "A Gothic and Renaissance centre with underground passages."
+    },
+    {
+      "name": "Zamość Old Town",
+      "where": "Zamość",
+      "text": "A UNESCO-listed Renaissance town."
+    },
+    {
+      "name": "Kazimierz Dolny",
+      "where": "Kazimierz Dolny",
+      "text": "A market square and cliffs above the Vistula."
+    },
+    {
+      "name": "Roztocze National Park",
+      "where": "Zwierzyniec",
+      "text": "Beech forests, ponds and rare Konik horses."
+    }
+  ],
+  "food": [
+    "Cebularz lubelski",
+    "Buckwheat groats",
+    "Kogut kazimierski (bread rooster)",
+    "Pierogi",
+    "Kiszka ziemniaczana"
+  ],
+  "festivals": [
+    {
+      "name": "Jagiellonian Fair",
+      "where": "Lublin",
+      "month": 8,
+      "when": "August",
+      "text": "A big fair of crafts, food and music in Lublin's Old Town."
+    },
+    {
+      "name": "Carnaval Sztukmistrzów",
+      "where": "Lublin",
+      "month": 7,
+      "when": "July",
+      "text": "A festival of street theatre, circus and magic."
+    },
+    {
+      "name": "Folk Bands and Singers Festival",
+      "where": "Kazimierz Dolny",
+      "month": 6,
+      "when": "June",
+      "text": "Traditional folk music from across Poland."
+    }
+  ],
+  "sport": {
+    "intro": "Volleyball is popular in Lublin, and Motor's rise has brought football crowds back.",
+    "clubs": [
+      {
+        "name": "Motor Lublin",
+        "sport": "Football",
+        "ground": "Arena Lublin"
+      },
+      {
+        "name": "Górnik Łęczna",
+        "sport": "Football",
+        "ground": "Stadion Górnika, Łęczna"
+      },
+      {
+        "name": "Bogdanka LUK Lublin",
+        "sport": "Volleyball",
+        "ground": "Hala Globus, Lublin"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Families from the Lublin region are well represented in Polish communities in the US (Chicago and New York) and the UK."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Lubelszczyzna",
+    "adjective": "Lubelszczyzna",
+    "people": "Lubelacy",
+    "eyebrow": "Wschodnia Polska · Stolica: Lublin",
+    "title": "Lubelszczyzna —",
+    "title_em": "wschodnia brama.",
+    "tagline": "Renesansowy Zamość, artystyczny Kazimierz Dolny i brama na wschodnie pogranicze.",
+    "stats": [
+      [
+        "2,0 mln",
+        "mieszkańców"
+      ],
+      [
+        "25 100 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Lubelszczyzna leży wzdłuż Wisły i Bugu i od dawna jest miejscem spotkania Polaków, Ukraińców, Żydów i innych. Unia lubelska z 1569 roku połączyła Polskę i Litwę we wspólną Rzeczpospolitą.",
+      "Zamość, renesansowe miasto zaprojektowane w XVI wieku przez włoskiego architekta, jest wpisany na listę UNESCO, a Kazimierz Dolny od stu lat jest ostoją artystów."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Stolica regionu i stare miasto uniwersyteckie."
+        },
+        {
+          "note": "Renesansowe miasto."
+        },
+        {
+          "note": "Kredowe tunele pod starym miastem."
+        },
+        {
+          "note": "Pałac i park Czartoryskich."
+        },
+        {
+          "note": "Miasteczko artystów nad Wisłą."
+        },
+        {
+          "note": "W pobliżu wschodniej granicy."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Zamość",
+        "text": "Idealne renesansowe miasto założone w 1580 roku, zwane „Padwą Północy”."
+      },
+      {
+        "title": "Kazimierz Dolny",
+        "text": "Malownicze miasteczko artystów nad Wisłą, znane z chleba w kształcie koguta."
+      },
+      {
+        "title": "Unia lubelska",
+        "text": "Porozumienie z 1569 roku, które stworzyło Rzeczpospolitą Obojga Narodów."
+      }
+    ],
+    "places": [
+      {
+        "name": "Stare Miasto w Lublinie",
+        "where": "Lublin",
+        "text": "Gotyckie i renesansowe centrum z podziemnymi przejściami."
+      },
+      {
+        "name": "Stare Miasto w Zamościu",
+        "where": "Zamość",
+        "text": "Renesansowe miasto wpisane na listę UNESCO."
+      },
+      {
+        "name": "Kazimierz Dolny",
+        "where": "Kazimierz Dolny",
+        "text": "Rynek i klify nad Wisłą."
+      },
+      {
+        "name": "Roztoczański Park Narodowy",
+        "where": "Zwierzyniec",
+        "text": "Bukowe lasy, stawy i rzadkie koniki polskie."
+      }
+    ],
+    "food": [
+      "Cebularz lubelski",
+      "Kasza gryczana",
+      "Kogut kazimierski",
+      "Pierogi",
+      "Kiszka ziemniaczana"
+    ],
+    "festivals": [
+      {
+        "name": "Jarmark Jagielloński",
+        "where": "Lublin",
+        "when": "Sierpień",
+        "text": "Wielki jarmark rzemiosła, jedzenia i muzyki na lubelskim Starym Mieście."
+      },
+      {
+        "name": "Carnaval Sztukmistrzów",
+        "where": "Lublin",
+        "when": "Lipiec",
+        "text": "Festiwal teatru ulicznego, cyrku i magii."
+      },
+      {
+        "name": "Festiwal Kapel i Śpiewaków Ludowych",
+        "where": "Kazimierz Dolny",
+        "when": "Czerwiec",
+        "text": "Tradycyjna muzyka ludowa z całej Polski."
+      }
+    ],
+    "sport": {
+      "intro": "Siatkówka jest popularna w Lublinie, a awans Motoru przywrócił tłumy na piłkarskie trybuny.",
+      "clubs": [
+        {
+          "sport": "Piłka nożna",
+          "ground": "Arena Lublin"
+        },
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Górnika, Łęczna"
+        },
+        {
+          "sport": "Siatkówka",
+          "ground": "Hala Globus, Lublin"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Rodziny z Lubelszczyzny są dobrze reprezentowane w polskich społecznościach w USA (Chicago i Nowy Jork) i w Wielkiej Brytanii."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

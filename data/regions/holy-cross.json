@@ -1,0 +1,257 @@
+{
+  "slug": "holy-cross",
+  "name": "Holy Cross",
+  "name_pl": "Świętokrzyskie",
+  "adjective": "Holy Cross",
+  "people": "Holy Cross Poles",
+  "eyebrow": "South-central Poland · Capital: Kielce",
+  "title": "Holy Cross —",
+  "title_em": "old mountains and old towns.",
+  "tagline": "The Świętokrzyskie mountains, Sandomierz's old town and the striped-flint mines of the Stone Age.",
+  "stats": [
+    [
+      "1.2M",
+      "residents"
+    ],
+    [
+      "11,700 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "The Holy Cross region takes its name from the mountains and the Benedictine abbey of Święty Krzyż on Łysa Góra, where a relic of the True Cross has been kept since the Middle Ages. The mountains are some of the oldest in Europe.",
+    "Sandomierz, with its hilltop Old Town and apple orchards, is among the prettiest towns in Poland, and the Krzemionki mines near Ostrowiec show how Neolithic people dug for striped flint."
+  ],
+  "map": {
+    "viewBox": "346 352 149 131",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Kielce",
+        "lat": 50.8661,
+        "lon": 20.6286,
+        "note": "The regional capital, at the foot of the mountains.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Sandomierz",
+        "lat": 50.6825,
+        "lon": 21.749,
+        "note": "Hilltop old town above the Vistula."
+      },
+      {
+        "name": "Busko-Zdrój",
+        "lat": 50.471,
+        "lon": 20.7189,
+        "note": "A spa town in the south."
+      },
+      {
+        "name": "Chęciny",
+        "lat": 50.7973,
+        "lon": 20.4547,
+        "note": "A medieval hilltop castle.",
+        "label": "left"
+      },
+      {
+        "name": "Święty Krzyż",
+        "lat": 50.8606,
+        "lon": 21.0556,
+        "note": "The abbey on Łysa Góra."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Sandomierz",
+      "text": "A hilltop town with a Gothic cathedral, a market square and cellars; also famous for its apple orchards."
+    },
+    {
+      "title": "Święty Krzyż Abbey",
+      "text": "A Benedictine abbey on Łysa Góra, kept as a place of pilgrimage."
+    },
+    {
+      "title": "Krzemionki",
+      "text": "UNESCO-listed Neolithic flint mines."
+    }
+  ],
+  "places": [
+    {
+      "name": "Sandomierz Old Town",
+      "where": "Sandomierz",
+      "text": "A market square, the town hall and underground cellars."
+    },
+    {
+      "name": "Holy Cross Abbey",
+      "where": "Święty Krzyż",
+      "text": "A pilgrim monastery on a wooded mountain."
+    },
+    {
+      "name": "Chęciny Castle",
+      "where": "Chęciny",
+      "text": "Ruins with views over the Chęciny hills."
+    },
+    {
+      "name": "Krzemionki",
+      "where": "Ostrowiec Świętokrzyski",
+      "text": "Underground striped-flint mines."
+    }
+  ],
+  "food": [
+    "Sandomierz apples and cider",
+    "Fruit preserves",
+    "Pierogi",
+    "Local honey"
+  ],
+  "festivals": [
+    {
+      "name": "Holy Cross pilgrimages",
+      "where": "Święty Krzyż",
+      "month": 9,
+      "when": "14 September (Exaltation of the Cross)",
+      "text": "Pilgrims climb to the abbey.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Kielce's handball club won the Champions League in 2016.",
+    "clubs": [
+      {
+        "name": "Korona Kielce",
+        "sport": "Football",
+        "ground": "Suzuki Arena, Kielce"
+      },
+      {
+        "name": "Industria Kielce (Łomża Vive)",
+        "sport": "Handball",
+        "ground": "Hala Legionów, Kielce"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Families from the Holy Cross region are part of Polish communities in the US (especially Chicago) and the UK."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Ziemia Świętokrzyska",
+    "adjective": "Ziemia Świętokrzyska",
+    "people": "Świętokrzyszanie",
+    "eyebrow": "Południowo-środkowa Polska · Stolica: Kielce",
+    "title": "Ziemia Świętokrzyska —",
+    "title_em": "stare góry i stare miasta.",
+    "tagline": "Góry Świętokrzyskie, sandomierskie Stare Miasto i kopalnie krzemienia pasiastego z epoki kamienia.",
+    "stats": [
+      [
+        "1,2 mln",
+        "mieszkańców"
+      ],
+      [
+        "11 700 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Region zawdzięcza nazwę górom i benedyktyńskiemu opactwu Świętego Krzyża na Łysej Górze, gdzie od średniowiecza przechowuje się relikwię Krzyża Świętego. Te góry należą do najstarszych w Europie.",
+      "Sandomierz, ze Starym Miastem na wzgórzu i sadami jabłoni, to jedno z najpiękniejszych polskich miast, a kopalnie w Krzemionkach koło Ostrowca pokazują, jak ludzie z neolitu wydobywali krzemień pasiasty."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Stolica regionu, u stóp gór."
+        },
+        {
+          "note": "Stare Miasto na wzgórzu nad Wisłą."
+        },
+        {
+          "note": "Uzdrowisko na południu."
+        },
+        {
+          "note": "Średniowieczny zamek na wzgórzu."
+        },
+        {
+          "note": "Opactwo na Łysej Górze."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Sandomierz",
+        "text": "Miasto na wzgórzu z gotycką katedrą, rynkiem i piwnicami; słynie też z sadów jabłoniowych."
+      },
+      {
+        "title": "Opactwo Świętego Krzyża",
+        "text": "Benedyktyńskie opactwo na Łysej Górze, miejsce pielgrzymek."
+      },
+      {
+        "title": "Krzemionki",
+        "text": "Wpisane na listę UNESCO neolityczne kopalnie krzemienia."
+      }
+    ],
+    "places": [
+      {
+        "name": "Stare Miasto w Sandomierzu",
+        "where": "Sandomierz",
+        "text": "Rynek, ratusz i podziemne piwnice."
+      },
+      {
+        "name": "Opactwo Świętego Krzyża",
+        "where": "Święty Krzyż",
+        "text": "Klasztor pielgrzymów na zalesionej górze."
+      },
+      {
+        "name": "Zamek w Chęcinach",
+        "where": "Chęciny",
+        "text": "Ruiny z widokiem na Góry Chęcińskie."
+      },
+      {
+        "name": "Krzemionki",
+        "where": "Ostrowiec Świętokrzyski",
+        "text": "Podziemne kopalnie krzemienia pasiastego."
+      }
+    ],
+    "food": [
+      "Jabłka i cydr z Sandomierza",
+      "Przetwory owocowe",
+      "Pierogi",
+      "Lokalny miód"
+    ],
+    "festivals": [
+      {
+        "name": "Pielgrzymki na Święty Krzyż",
+        "where": "Święty Krzyż",
+        "when": "14 września (Podwyższenie Krzyża Świętego)",
+        "text": "Pielgrzymi wspinają się do opactwa."
+      }
+    ],
+    "sport": {
+      "intro": "Kielecki klub piłki ręcznej wygrał Ligę Mistrzów w 2016 roku.",
+      "clubs": [
+        {
+          "sport": "Piłka nożna",
+          "ground": "Suzuki Arena, Kielce"
+        },
+        {
+          "sport": "Piłka ręczna",
+          "ground": "Hala Legionów, Kielce"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Rodziny z Ziemi Świętokrzyskiej należą do polskich społeczności w USA (zwłaszcza w Chicago) i w Wielkiej Brytanii."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "slug": "silesia",
+  "name": "Silesia",
+  "name_pl": "Śląskie",
+  "adjective": "Silesian",
+  "people": "Silesians",
+  "eyebrow": "South Poland · Capital: Katowice",
+  "title": "Silesia —",
+  "title_em": "coal, culture and pilgrimage.",
+  "tagline": "Katowice and the industrial heartland, plus Częstochowa, where millions come to see the Black Madonna.",
+  "stats": [
+    [
+      "4.4M",
+      "residents"
+    ],
+    [
+      "12,300 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "Silesia is Poland's most urbanised region, built on coal and steel, and today a centre of music, design and universities. Katowice hosts the Spodek arena and the Polish National Radio Symphony Orchestra.",
+    "Częstochowa's Jasna Góra monastery is Poland's most important pilgrimage site, and the Black Madonna icon is revered by Poles everywhere. Many Silesians speak a distinct dialect at home, and Silesian families moved in large numbers to Germany."
+  ],
+  "map": {
+    "viewBox": "242 374 138 190",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Katowice",
+        "lat": 50.2649,
+        "lon": 19.0238,
+        "note": "The regional capital and its cultural quarter.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Częstochowa",
+        "lat": 50.8118,
+        "lon": 19.1203,
+        "note": "Home of the Black Madonna at Jasna Góra.",
+        "label": "left"
+      },
+      {
+        "name": "Bielsko-Biała",
+        "lat": 49.8224,
+        "lon": 19.0584,
+        "note": "At the foot of the Beskids."
+      },
+      {
+        "name": "Gliwice",
+        "lat": 50.2945,
+        "lon": 18.6714,
+        "note": "Radio tower and technical university city.",
+        "label": "left"
+      },
+      {
+        "name": "Rybnik",
+        "lat": 50.0971,
+        "lon": 18.5463,
+        "note": "Southwest, near the Czech border."
+      },
+      {
+        "name": "Tychy",
+        "lat": 50.1218,
+        "lon": 18.9966,
+        "note": "Home of Tyskie brewery."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Jasna Góra, Częstochowa",
+      "text": "The monastery holding the Black Madonna icon; the national place of pilgrimage."
+    },
+    {
+      "title": "Industrial heritage",
+      "text": "Nikiszowiec and former mines and steelworks turned into museums and venues."
+    },
+    {
+      "title": "Silesian dialect and cuisine",
+      "text": "Kluski śląskie, rolada and a way of speaking that is its own."
+    }
+  ],
+  "places": [
+    {
+      "name": "Jasna Góra Monastery",
+      "where": "Częstochowa",
+      "text": "The national shrine to the Black Madonna."
+    },
+    {
+      "name": "Nikiszowiec",
+      "where": "Katowice",
+      "text": "A historic miners' housing estate in red brick."
+    },
+    {
+      "name": "Silesian Museum",
+      "where": "Katowice",
+      "text": "A museum built on the site of the former Katowice coal mine."
+    },
+    {
+      "name": "Beskid mountains",
+      "where": "Bielsko-Biała",
+      "text": "Walking and skiing, on the edge of the city."
+    }
+  ],
+  "food": [
+    "Kluski śląskie",
+    "Rolada with red cabbage",
+    "Moczka",
+    "Kołacz",
+    "Żurek",
+    "Silesian poppy seed cake"
+  ],
+  "festivals": [
+    {
+      "name": "Pilgrimage to Jasna Góra",
+      "where": "Częstochowa",
+      "month": 8,
+      "when": "15 August (Assumption) and throughout the year",
+      "text": "Hundreds of thousands of pilgrims, many walking for days.",
+      "diaspora": true
+    },
+    {
+      "name": "Barbórka (Miners' Day)",
+      "where": "Across Silesia",
+      "month": 12,
+      "when": "4 December",
+      "text": "Parades and dinners for St Barbara, patron saint of miners.",
+      "diaspora": true
+    },
+    {
+      "name": "OFF Festival",
+      "where": "Katowice",
+      "month": 8,
+      "when": "August",
+      "text": "One of Poland's best-loved alternative music festivals, in a valley park."
+    }
+  ],
+  "sport": {
+    "intro": "Silesian football has a long history: Górnik Zabrze has won more Polish titles than any other club apart from Legia and Ruch.",
+    "clubs": [
+      {
+        "name": "Górnik Zabrze",
+        "sport": "Football",
+        "ground": "Stadion Ernesta Pohla, Zabrze"
+      },
+      {
+        "name": "GKS Katowice",
+        "sport": "Football",
+        "ground": "Stadion GKS-u, Katowice"
+      },
+      {
+        "name": "Piast Gliwice",
+        "sport": "Football",
+        "ground": "Stadion Miejski, Gliwice"
+      },
+      {
+        "name": "Raków Częstochowa",
+        "sport": "Football",
+        "ground": "Stadion Miejski Raków, Częstochowa"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Silesians left in large numbers for Germany's Ruhr and for North America, and Silesian clubs abroad keep the dialect, food and Barbórka traditions alive."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Śląsk",
+    "adjective": "Śląsk",
+    "people": "Ślązacy",
+    "eyebrow": "Południowa Polska · Stolica: Katowice",
+    "title": "Śląsk —",
+    "title_em": "węgiel, kultura i pielgrzymki.",
+    "tagline": "Katowice i przemysłowe serce kraju, a także Częstochowa, do której przybywają miliony, by zobaczyć Czarną Madonnę.",
+    "stats": [
+      [
+        "4,4 mln",
+        "mieszkańców"
+      ],
+      [
+        "12 300 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Śląsk to najbardziej zurbanizowany region Polski, zbudowany na węglu i stali, a dziś ośrodek muzyki, designu i uczelni. W Katowicach znajdują się Spodek i Narodowa Orkiestra Symfoniczna Polskiego Radia.",
+      "Jasna Góra w Częstochowie to najważniejsze miejsce pielgrzymkowe w Polsce, a obraz Czarnej Madonny jest czczony przez Polaków na całym świecie. Wielu Ślązaków mówi w domu własną gwarą, a śląskie rodziny w dużych liczbach wyjeżdżały do Niemiec."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Stolica regionu i jej strefa kultury."
+        },
+        {
+          "note": "Dom Czarnej Madonny na Jasnej Górze."
+        },
+        {
+          "note": "U stóp Beskidów."
+        },
+        {
+          "note": "Miasto wieży radiowej i politechniki."
+        },
+        {
+          "note": "Na południowym zachodzie, przy granicy z Czechami."
+        },
+        {
+          "note": "Miasto, w którym warzy się Tyskie."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Jasna Góra w Częstochowie",
+        "text": "Klasztor z obrazem Czarnej Madonny; narodowe miejsce pielgrzymek."
+      },
+      {
+        "title": "Dziedzictwo przemysłowe",
+        "text": "Nikiszowiec oraz dawne kopalnie i huty zamienione w muzea i miejsca wydarzeń."
+      },
+      {
+        "title": "Śląska gwara i kuchnia",
+        "text": "Kluski śląskie, rolada i sposób mówienia, który jest tylko śląski."
+      }
+    ],
+    "places": [
+      {
+        "name": "Klasztor na Jasnej Górze",
+        "where": "Częstochowa",
+        "text": "Narodowe sanktuarium Czarnej Madonny."
+      },
+      {
+        "name": "Nikiszowiec",
+        "where": "Katowice",
+        "text": "Historyczne osiedle górnicze z czerwonej cegły."
+      },
+      {
+        "name": "Muzeum Śląskie",
+        "where": "Katowice",
+        "text": "Muzeum zbudowane na terenie dawnej kopalni Katowice."
+      },
+      {
+        "name": "Beskidy",
+        "where": "Bielsko-Biała",
+        "text": "Wędrówki i narty na skraju miasta."
+      }
+    ],
+    "food": [
+      "Kluski śląskie",
+      "Rolada z modrą kapustą",
+      "Moczka",
+      "Kołocz",
+      "Żurek",
+      "Śląski makowiec"
+    ],
+    "festivals": [
+      {
+        "name": "Pielgrzymka na Jasną Górę",
+        "where": "Częstochowa",
+        "when": "15 sierpnia (Wniebowzięcie) i przez cały rok",
+        "text": "Setki tysięcy pielgrzymów, z których wielu idzie pieszo przez kilka dni."
+      },
+      {
+        "name": "Barbórka",
+        "where": "Cały Śląsk",
+        "when": "4 grudnia",
+        "text": "Pochody i kolacje ku czci św. Barbary, patronki górników."
+      },
+      {
+        "name": "OFF Festival",
+        "where": "Katowice",
+        "when": "Sierpień",
+        "text": "Jeden z najbardziej lubianych w Polsce festiwali muzyki alternatywnej, w dolinie parku."
+      }
+    ],
+    "sport": {
+      "intro": "Śląska piłka nożna ma długą historię: Górnik Zabrze zdobył 14 tytułów mistrza Polski.",
+      "clubs": [
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion im. Ernesta Pohla, Zabrze"
+        },
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion GKS-u, Katowice"
+        },
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Miejski, Gliwice"
+        },
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Miejski Raków, Częstochowa"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Ślązacy w dużych liczbach wyjeżdżali do Zagłębia Ruhry i do Ameryki Północnej, a śląskie kluby za granicą podtrzymują gwarę, jedzenie i tradycję Barbórki."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

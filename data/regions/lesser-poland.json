@@ -1,0 +1,306 @@
+{
+  "slug": "lesser-poland",
+  "name": "Lesser Poland",
+  "name_pl": "Małopolskie",
+  "adjective": "Lesser Poland",
+  "people": "Lesser Poles",
+  "eyebrow": "South Poland · Capital: Kraków",
+  "title": "Lesser Poland —",
+  "title_em": "kings, salt and mountains.",
+  "tagline": "Kraków, Poland's royal city, the salt mines of Wieliczka and the Tatra mountains: the region most visitors dream of.",
+  "stats": [
+    [
+      "3.4M",
+      "residents"
+    ],
+    [
+      "15,200 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "Lesser Poland (Małopolska) is the historic heartland of the old Polish kingdom, and Kraków was the royal capital until the court moved to Warsaw around 1596. Its Old Town, the Wawel Castle and the Wieliczka Salt Mine are UNESCO World Heritage sites.",
+    "Mountain people from the Tatra foothills, the Górale, have a strong identity of their own, and the Highlander communities of Chicago are some of the best known Polish-American groups."
+  ],
+  "map": {
+    "viewBox": "308 433 159 151",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Kraków",
+        "lat": 50.0647,
+        "lon": 19.945,
+        "note": "Former royal capital with a huge medieval market square.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Zakopane",
+        "lat": 49.2992,
+        "lon": 19.9496,
+        "note": "Mountain resort at the foot of the Tatras.",
+        "label": "left"
+      },
+      {
+        "name": "Tarnów",
+        "lat": 50.0121,
+        "lon": 20.9858,
+        "note": "Renaissance town hall and old market."
+      },
+      {
+        "name": "Nowy Sącz",
+        "lat": 49.6249,
+        "lon": 20.697,
+        "note": "Gateway to the Beskid mountains."
+      },
+      {
+        "name": "Oświęcim",
+        "lat": 50.0344,
+        "lon": 19.2098,
+        "note": "Site of the Auschwitz-Birkenau Memorial and Museum.",
+        "label": "left"
+      },
+      {
+        "name": "Wieliczka",
+        "lat": 49.9871,
+        "lon": 20.0645,
+        "note": "Home of the historic salt mine.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Kraków's Old Town and Wawel",
+      "text": "Poland's largest medieval market square, and the royal castle and cathedral on Wawel hill."
+    },
+    {
+      "title": "Wieliczka Salt Mine",
+      "text": "A working mine from the 13th century, with carved chapels deep underground."
+    },
+    {
+      "title": "Zakopane and the Tatras",
+      "text": "Poland's winter capital, with Górale music, carved wooden houses and oscypek cheese."
+    }
+  ],
+  "places": [
+    {
+      "name": "Wawel Castle",
+      "where": "Kraków",
+      "text": "The royal castle and cathedral where Polish kings were crowned and buried."
+    },
+    {
+      "name": "Wieliczka Salt Mine",
+      "where": "Wieliczka",
+      "text": "Underground chapels and lakes carved from rock salt."
+    },
+    {
+      "name": "Zakopane and the Tatras",
+      "where": "Zakopane",
+      "text": "Mountain trails, ski jumping and Highlander culture."
+    },
+    {
+      "name": "Auschwitz-Birkenau Memorial",
+      "where": "Oświęcim",
+      "text": "The former Nazi concentration camp, preserved as a place of remembrance."
+    }
+  ],
+  "food": [
+    "Oscypek (smoked sheep's cheese)",
+    "Obwarzanek krakowski",
+    "Zapiekanka",
+    "Kremówka",
+    "Sernik krakowski",
+    "Bryndza"
+  ],
+  "festivals": [
+    {
+      "name": "Lajkonik procession",
+      "where": "Kraków",
+      "month": 6,
+      "when": "Thursday after Corpus Christi (octave)",
+      "text": "A bearded 'Tatar' on a hobby horse parades through the city, a tradition of centuries."
+    },
+    {
+      "name": "Kraków Nativity Scene Contest",
+      "where": "Kraków",
+      "month": 12,
+      "when": "First Thursday of December",
+      "text": "Makers parade elaborate szopki (crib models) in the Main Square. Listed as UNESCO intangible heritage."
+    },
+    {
+      "name": "Wianki (Midsummer)",
+      "where": "Kraków",
+      "month": 6,
+      "when": "Around 21–24 June",
+      "text": "Floral wreaths on the Vistula and concerts at the foot of Wawel."
+    }
+  ],
+  "sport": {
+    "intro": "Kraków's two football clubs, Cracovia and Wisła, have a famous rivalry, and Zakopane is the home of Polish ski jumping.",
+    "clubs": [
+      {
+        "name": "Cracovia",
+        "sport": "Football",
+        "ground": "Stadion Cracovii, Kraków (founded 1906)"
+      },
+      {
+        "name": "Wisła Kraków",
+        "sport": "Football",
+        "ground": "Stadion Miejski, Kraków"
+      },
+      {
+        "name": "Zakopane ski jumping",
+        "sport": "Ski jumping",
+        "ground": "Wielka Krokiew, Zakopane"
+      }
+    ]
+  },
+  "community": {
+    "intro": "The Górale (Highlanders) from the Podhale area have a notable community in Chicago, and Kraków natives are active in clubs across the UK, Canada and the US."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Małopolska",
+    "adjective": "Małopolska",
+    "people": "Małopolanie",
+    "eyebrow": "Południowa Polska · Stolica: Kraków",
+    "title": "Małopolska —",
+    "title_em": "królowie, sól i góry.",
+    "tagline": "Kraków, królewskie miasto Polski, kopalnia soli w Wieliczce i Tatry: region, o którym marzy większość odwiedzających.",
+    "stats": [
+      [
+        "3,4 mln",
+        "mieszkańców"
+      ],
+      [
+        "15 200 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Małopolska to historyczne serce dawnego Królestwa Polskiego, a Kraków był stolicą królewską, dopóki dwór nie przeniósł się do Warszawy około 1596 roku. Stare Miasto, Wawel i kopalnia soli w Wieliczce znajdują się na Liście Światowego Dziedzictwa UNESCO.",
+      "Górale z podtatrzańskich okolic mają silną, własną tożsamość, a społeczności górali w Chicago należą do najbardziej znanych grup polonijnych w Stanach Zjednoczonych."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Dawna stolica królewska z ogromnym średniowiecznym rynkiem."
+        },
+        {
+          "note": "Górski kurort u stóp Tatr."
+        },
+        {
+          "note": "Renesansowy ratusz i stary rynek."
+        },
+        {
+          "note": "Brama do Beskidów."
+        },
+        {
+          "note": "Miejsce Muzeum Auschwitz-Birkenau."
+        },
+        {
+          "note": "Dom historycznej kopalni soli."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Stare Miasto w Krakowie i Wawel",
+        "text": "Największy średniowieczny rynek w Polsce oraz zamek i katedra królewska na wzgórzu wawelskim."
+      },
+      {
+        "title": "Kopalnia soli w Wieliczce",
+        "text": "Działa od XIII wieku, z rzeźbionymi kaplicami głęboko pod ziemią."
+      },
+      {
+        "title": "Zakopane i Tatry",
+        "text": "Zimowa stolica Polski, z muzyką górali, drewnianymi domami i oscypkiem."
+      }
+    ],
+    "places": [
+      {
+        "name": "Zamek Królewski na Wawelu",
+        "where": "Kraków",
+        "text": "Zamek i katedra, w których koronowano i chowano polskich królów."
+      },
+      {
+        "name": "Kopalnia soli w Wieliczce",
+        "where": "Wieliczka",
+        "text": "Podziemne kaplice i jeziora wyrzeźbione w soli kamiennej."
+      },
+      {
+        "name": "Zakopane i Tatry",
+        "where": "Zakopane",
+        "text": "Górskie szlaki, skoki narciarskie i kultura górali."
+      },
+      {
+        "name": "Muzeum Auschwitz-Birkenau",
+        "where": "Oświęcim",
+        "text": "Dawny niemiecki obóz koncentracyjny, zachowany jako miejsce pamięci."
+      }
+    ],
+    "food": [
+      "Oscypek",
+      "Obwarzanek krakowski",
+      "Zapiekanka",
+      "Kremówka",
+      "Sernik krakowski",
+      "Bryndza"
+    ],
+    "festivals": [
+      {
+        "name": "Pochód Lajkonika",
+        "where": "Kraków",
+        "when": "W czwartek po oktawie Bożego Ciała",
+        "text": "Brodaty „Tatar” na drewnianym koniku przemierza miasto: tradycja trwająca od wieków."
+      },
+      {
+        "name": "Konkurs Szopek Krakowskich",
+        "where": "Kraków",
+        "when": "Pierwszy czwartek grudnia",
+        "text": "Twórcy paradują z misternymi szopkami po Rynku Głównym. Wpisany na listę niematerialnego dziedzictwa UNESCO."
+      },
+      {
+        "name": "Wianki",
+        "where": "Kraków",
+        "when": "Około 21–24 czerwca",
+        "text": "Wianki na Wiśle i koncerty u stóp Wawelu."
+      }
+    ],
+    "sport": {
+      "intro": "Dwa krakowskie kluby piłkarskie, Cracovia i Wisła, łączy słynna rywalizacja, a Zakopane to dom polskich skoków narciarskich.",
+      "clubs": [
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Cracovii, Kraków (założona w 1906)"
+        },
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Miejski, Kraków"
+        },
+        {
+          "sport": "Skoki narciarskie",
+          "ground": "Wielka Krokiew, Zakopane"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Górale z Podhala mają znaczącą społeczność w Chicago, a rodowici krakowianie działają w klubach w Wielkiej Brytanii, Kanadzie i USA."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

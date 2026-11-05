@@ -1,0 +1,290 @@
+{
+  "slug": "warmia-masuria",
+  "name": "Warmia-Masuria",
+  "name_pl": "Warmińsko-Mazurskie",
+  "adjective": "Warmian-Masurian",
+  "people": "Masurians",
+  "eyebrow": "Northeast Poland · Capital: Olsztyn",
+  "title": "Warmia-Masuria —",
+  "title_em": "the land of a thousand lakes.",
+  "tagline": "Great Masurian Lakes for sailing, the Copernicus town of Frombork and quiet baroque shrines.",
+  "stats": [
+    [
+      "1.4M",
+      "residents"
+    ],
+    [
+      "24,200 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "Warmia-Masuria in the northeast is a landscape of lakes, forests and red-brick churches. The Great Masurian Lakes form one of Europe's best sailing areas, and Mikołajki is the 'sailing capital' of Poland.",
+    "Frombork is where Copernicus worked and wrote much of his heliocentric theory, and Święta Lipka is a baroque shrine famous for its organ concerts."
+  ],
+  "map": {
+    "viewBox": "305 35 253 159",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Olsztyn",
+        "lat": 53.7784,
+        "lon": 20.4801,
+        "note": "The regional capital, on the Łyna river.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Elbląg",
+        "lat": 54.1522,
+        "lon": 19.4088,
+        "note": "The start of the Elbląg Canal."
+      },
+      {
+        "name": "Ełk",
+        "lat": 53.8284,
+        "lon": 22.3647,
+        "note": "A lakeside town in the east."
+      },
+      {
+        "name": "Giżycko",
+        "lat": 54.0378,
+        "lon": 21.7667,
+        "note": "A sailing centre by the Boyen Fortress.",
+        "label": "left"
+      },
+      {
+        "name": "Mikołajki",
+        "lat": 53.801,
+        "lon": 21.5736,
+        "note": "Poland's sailing capital."
+      },
+      {
+        "name": "Frombork",
+        "lat": 54.3585,
+        "lon": 19.673,
+        "note": "Copernicus's cathedral town.",
+        "label": "left"
+      },
+      {
+        "name": "Święta Lipka",
+        "lat": 54.0517,
+        "lon": 21.2447,
+        "note": "A baroque pilgrimage church."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "The Masurian Lakes",
+      "text": "Over 2,000 lakes joined by canals, loved for sailing, kayaking and fishing."
+    },
+    {
+      "title": "Frombork",
+      "text": "A cathedral hill on the Vistula Lagoon where Copernicus lived and worked."
+    },
+    {
+      "title": "Elbląg Canal",
+      "text": "A canal where boats are hauled over dry land on rails."
+    }
+  ],
+  "places": [
+    {
+      "name": "Mikołajki and the Great Masurian Lakes",
+      "where": "Mikołajki",
+      "text": "Sailing, windsurfing and lake cruises."
+    },
+    {
+      "name": "Frombork Cathedral Hill",
+      "where": "Frombork",
+      "text": "Where Copernicus lived and worked."
+    },
+    {
+      "name": "Święta Lipka",
+      "where": "Święta Lipka",
+      "text": "A baroque shrine with a moving-figure organ."
+    },
+    {
+      "name": "Elbląg Canal",
+      "where": "Elbląg",
+      "text": "A unique boat journey over hills on rails."
+    }
+  ],
+  "food": [
+    "Smoked fish",
+    "Zander (sandacz)",
+    "Crayfish",
+    "Kartacze",
+    "Wild mushrooms"
+  ],
+  "festivals": [
+    {
+      "name": "Święta Lipka organ concerts",
+      "where": "Święta Lipka",
+      "month": 7,
+      "when": "Summer",
+      "text": "Daily organ concerts with the moving figures of the Baroque organ."
+    },
+    {
+      "name": "Masurian sailing season",
+      "where": "Mikołajki",
+      "month": 7,
+      "when": "July–August",
+      "text": "Regattas and shanty festivals."
+    }
+  ],
+  "sport": {
+    "intro": "Sailing and volleyball are the main sports in the lake district.",
+    "clubs": [
+      {
+        "name": "Stomil Olsztyn",
+        "sport": "Football",
+        "ground": "Stadion Stomilu, Olsztyn"
+      },
+      {
+        "name": "Indykpol AZS Olsztyn",
+        "sport": "Volleyball",
+        "ground": "Hala Urania, Olsztyn"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Many Masurian families emigrated to Germany in the 20th century, and Polish families from the region are in the US and the UK."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Warmia i Mazury",
+    "adjective": "Warmia i Mazury",
+    "people": "Mazurzy",
+    "eyebrow": "Północno-wschodnia Polska · Stolica: Olsztyn",
+    "title": "Warmia i Mazury —",
+    "title_em": "kraina tysiąca jezior.",
+    "tagline": "Wielkie Jeziora Mazurskie do żeglowania, Frombork Kopernika i ciche barokowe sanktuaria.",
+    "stats": [
+      [
+        "1,4 mln",
+        "mieszkańców"
+      ],
+      [
+        "24 200 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Warmia i Mazury na północnym wschodzie to krajobraz jezior, lasów i czerwonych ceglanych kościołów. Wielkie Jeziora Mazurskie tworzą jeden z najlepszych obszarów żeglarskich w Europie, a Mikołajki są „żeglarską stolicą” Polski.",
+      "We Fromborku Kopernik pracował i napisał znaczną część swojej teorii heliocentrycznej, a Święta Lipka to barokowe sanktuarium słynące z koncertów organowych."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Stolica regionu, nad Łyną."
+        },
+        {
+          "note": "Początek Kanału Elbląskiego."
+        },
+        {
+          "note": "Jeziorne miasto na wschodzie."
+        },
+        {
+          "note": "Ośrodek żeglarski przy Twierdzy Boyen."
+        },
+        {
+          "note": "Żeglarska stolica Polski."
+        },
+        {
+          "note": "Miasto katedralne Kopernika."
+        },
+        {
+          "note": "Barokowy kościół pielgrzymkowy."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Jeziora Mazurskie",
+        "text": "Ponad 2000 jezior połączonych kanałami, lubianych za żeglarstwo, kajaki i wędkarstwo."
+      },
+      {
+        "title": "Frombork",
+        "text": "Wzgórze katedralne nad Zalewem Wiślanym, gdzie żył i pracował Kopernik."
+      },
+      {
+        "title": "Kanał Elbląski",
+        "text": "Kanał, po którym statki są przeciągane po lądzie na szynach."
+      }
+    ],
+    "places": [
+      {
+        "name": "Mikołajki i Wielkie Jeziora Mazurskie",
+        "where": "Mikołajki",
+        "text": "Żeglarstwo, windsurfing i rejsy po jeziorach."
+      },
+      {
+        "name": "Wzgórze katedralne we Fromborku",
+        "where": "Frombork",
+        "text": "Miejsce życia i pracy Kopernika."
+      },
+      {
+        "name": "Święta Lipka",
+        "where": "Święta Lipka",
+        "text": "Barokowe sanktuarium z organami z ruchomymi figurami."
+      },
+      {
+        "name": "Kanał Elbląski",
+        "where": "Elbląg",
+        "text": "Wyjątkowy rejs przez wzgórza po szynach."
+      }
+    ],
+    "food": [
+      "Ryby wędzone",
+      "Sandacz",
+      "Raki",
+      "Kartacze",
+      "Grzyby leśne"
+    ],
+    "festivals": [
+      {
+        "name": "Koncerty organowe w Świętej Lipce",
+        "where": "Święta Lipka",
+        "when": "Lato",
+        "text": "Codzienne koncerty organowe z ruchomymi figurami barokowych organów."
+      },
+      {
+        "name": "Sezon żeglarski na Mazurach",
+        "where": "Mikołajki",
+        "when": "Lipiec–sierpień",
+        "text": "Regaty i festiwale szant."
+      }
+    ],
+    "sport": {
+      "intro": "Żeglarstwo i siatkówka to główne sporty w krainie jezior.",
+      "clubs": [
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Stomilu, Olsztyn"
+        },
+        {
+          "sport": "Siatkówka",
+          "ground": "Hala Urania, Olsztyn"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Wielu Mazurów wyjechało do Niemiec w XX wieku, a polskie rodziny z regionu mieszkają w USA i Wielkiej Brytanii."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

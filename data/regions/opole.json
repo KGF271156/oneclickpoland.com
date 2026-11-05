@@ -1,0 +1,273 @@
+{
+  "slug": "opole",
+  "name": "Opole",
+  "name_pl": "Opolskie",
+  "adjective": "Opole",
+  "people": "Opole Silesians",
+  "eyebrow": "Southwest Poland · Capital: Opole",
+  "title": "Opole —",
+  "title_em": "the capital of Polish song.",
+  "tagline": "Poland's smallest region by area, with its national song festival and a pilgrimage mountain.",
+  "stats": [
+    [
+      "0.95M",
+      "residents"
+    ],
+    [
+      "9,400 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "The Opole region is Poland's smallest voivodeship and has a large German minority alongside Poles, so many towns have bilingual signs. The city of Opole is known as the capital of Polish song.",
+    "Mount St Anne (Góra Świętej Anny) is a major pilgrimage site, and the volleyball club ZAKSA from Kędzierzyn-Koźle has won the Champions League three times."
+  ],
+  "map": {
+    "viewBox": "174 367 125 136",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Opole",
+        "lat": 50.6751,
+        "lon": 17.9213,
+        "note": "The regional capital, on the Oder.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Nysa",
+        "lat": 50.4741,
+        "lon": 17.3328,
+        "note": "Called 'Silesian Rome' for its many churches.",
+        "label": "left"
+      },
+      {
+        "name": "Kędzierzyn-Koźle",
+        "lat": 50.35,
+        "lon": 18.2,
+        "note": "Home of the ZAKSA volleyball club."
+      },
+      {
+        "name": "Brzeg",
+        "lat": 50.8602,
+        "lon": 17.4685,
+        "note": "A Renaissance Piast castle.",
+        "label": "left"
+      },
+      {
+        "name": "Góra Świętej Anny",
+        "lat": 50.4605,
+        "lon": 17.904,
+        "note": "A pilgrimage sanctuary."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "The Opole Festival",
+      "text": "Poland's national festival of Polish song, held in the Opole amphitheatre each June."
+    },
+    {
+      "title": "Mount St Anne",
+      "text": "A hilltop sanctuary and pilgrimage site."
+    },
+    {
+      "title": "Bilingual heritage",
+      "text": "One of the few Polish regions where German is also used on signs."
+    }
+  ],
+  "places": [
+    {
+      "name": "Opole Amphitheatre",
+      "where": "Opole",
+      "text": "Venue of the National Festival of Polish Song."
+    },
+    {
+      "name": "Mount St Anne",
+      "where": "Góra Świętej Anny",
+      "text": "A hilltop shrine with a Calvary."
+    },
+    {
+      "name": "Brzeg Castle",
+      "where": "Brzeg",
+      "text": "A Renaissance castle of the Piast dukes."
+    },
+    {
+      "name": "Nysa Lake",
+      "where": "Nysa",
+      "text": "Lake for sailing and swimming."
+    }
+  ],
+  "food": [
+    "Kluski śląskie",
+    "Rolada",
+    "Żurek",
+    "Opole's pierogi",
+    "Poppy seed cake"
+  ],
+  "festivals": [
+    {
+      "name": "National Festival of Polish Song",
+      "where": "Opole",
+      "month": 6,
+      "when": "June",
+      "text": "Poland's most famous music festival, since 1963."
+    },
+    {
+      "name": "Mount St Anne pilgrimage",
+      "where": "Góra Świętej Anny",
+      "month": 7,
+      "when": "Late July",
+      "text": "Pilgrims honour St Anne.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Volleyball is the leading sport, and ZAKSA won the CEV Champions League in 2021, 2022 and 2023.",
+    "clubs": [
+      {
+        "name": "ZAKSA Kędzierzyn-Koźle",
+        "sport": "Volleyball",
+        "ground": "Hala Azoty, Kędzierzyn-Koźle"
+      },
+      {
+        "name": "Odra Opole",
+        "sport": "Football",
+        "ground": "Stadion Opolski, Opole"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Many families from the Opole region left for Germany from the 1970s onward, and ties between the region and Germany remain strong."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Opolszczyzna",
+    "adjective": "Opolszczyzna",
+    "people": "Opolanie",
+    "eyebrow": "Południowo-zachodnia Polska · Stolica: Opole",
+    "title": "Opolszczyzna —",
+    "title_em": "stolica polskiej piosenki.",
+    "tagline": "Najmniejszy region Polski pod względem powierzchni, z krajowym festiwalem piosenki i górą pielgrzymów.",
+    "stats": [
+      [
+        "0,95 mln",
+        "mieszkańców"
+      ],
+      [
+        "9 400 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Opolszczyzna to najmniejsze województwo Polski i ma dużą mniejszość niemiecką obok Polaków, więc wiele miast ma dwujęzyczne tablice. Opole jest nazywane stolicą polskiej piosenki.",
+      "Góra Świętej Anny to ważne miejsce pielgrzymkowe, a siatkarski klub ZAKSA z Kędzierzyna-Koźla trzykrotnie wygrał Ligę Mistrzów."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Stolica regionu, nad Odrą."
+        },
+        {
+          "note": "Nazywana „śląskim Rzymem” z powodu licznych kościołów."
+        },
+        {
+          "note": "Siedziba klubu siatkarskiego ZAKSA."
+        },
+        {
+          "note": "Renesansowy zamek Piastów."
+        },
+        {
+          "note": "Sanktuarium pielgrzymkowe."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Festiwal w Opolu",
+        "text": "Krajowy festiwal polskiej piosenki, odbywający się w opolskim amfiteatrze co roku w czerwcu."
+      },
+      {
+        "title": "Góra Świętej Anny",
+        "text": "Sanktuarium na wzgórzu i miejsce pielgrzymek."
+      },
+      {
+        "title": "Dwujęzyczne dziedzictwo",
+        "text": "Jeden z niewielu polskich regionów, w których na tablicach używa się także niemieckiego."
+      }
+    ],
+    "places": [
+      {
+        "name": "Amfiteatr w Opolu",
+        "where": "Opole",
+        "text": "Miejsce Krajowego Festiwalu Polskiej Piosenki."
+      },
+      {
+        "name": "Góra Świętej Anny",
+        "where": "Góra Świętej Anny",
+        "text": "Sanktuarium na wzgórzu z Kalwarią."
+      },
+      {
+        "name": "Zamek w Brzegu",
+        "where": "Brzeg",
+        "text": "Renesansowy zamek książąt piastowskich."
+      },
+      {
+        "name": "Jezioro Nyskie",
+        "where": "Nysa",
+        "text": "Jezioro do żeglowania i kąpieli."
+      }
+    ],
+    "food": [
+      "Kluski śląskie",
+      "Rolada",
+      "Żurek",
+      "Pierogi opolskie",
+      "Makowiec"
+    ],
+    "festivals": [
+      {
+        "name": "Krajowy Festiwal Polskiej Piosenki",
+        "where": "Opole",
+        "when": "Czerwiec",
+        "text": "Najbardziej znany polski festiwal muzyczny, od 1963 roku."
+      },
+      {
+        "name": "Pielgrzymka na Górę Świętej Anny",
+        "where": "Góra Świętej Anny",
+        "when": "Koniec lipca",
+        "text": "Pielgrzymi czczą św. Annę."
+      }
+    ],
+    "sport": {
+      "intro": "Siatkówka jest tu najważniejszym sportem, a ZAKSA wygrała Ligę Mistrzów CEV w 2021, 2022 i 2023 roku.",
+      "clubs": [
+        {
+          "sport": "Siatkówka",
+          "ground": "Hala Azoty, Kędzierzyn-Koźle"
+        },
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Opolski, Opole"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Wiele rodzin z Opolszczyzny wyjechało do Niemiec od lat 70., a więzi między regionem a Niemcami pozostają silne."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

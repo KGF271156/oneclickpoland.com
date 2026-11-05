@@ -1,0 +1,307 @@
+{
+  "slug": "masovia",
+  "name": "Masovia",
+  "name_pl": "Mazowieckie",
+  "adjective": "Masovian",
+  "people": "Masovians",
+  "eyebrow": "Central Poland · Capital: Warsaw",
+  "title": "Masovia —",
+  "title_em": "the heart of Poland.",
+  "tagline": "Warsaw, the capital reborn from the ruins of 1944, and the plains and villages where Chopin first heard folk music.",
+  "stats": [
+    [
+      "5.5M",
+      "residents"
+    ],
+    [
+      "35,600 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "Masovia is Poland's largest and most populous voivodeship and centres on Warsaw, the capital, which was almost wholly destroyed in the Second World War and rebuilt, including its Old Town, from paintings and plans. Beyond the city, the Masovian plain is a landscape of rivers, orchards and small towns.",
+    "Warsaw draws people from every part of Poland, so almost every Polish family abroad has a connection to it. Polish communities in London, Chicago and elsewhere keep Warsaw's anniversaries, in particular the 1944 Uprising, as their own."
+  ],
+  "map": {
+    "viewBox": "311 131 268 276",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Warsaw",
+        "lat": 52.2297,
+        "lon": 21.0122,
+        "note": "The capital, on the Vistula; Royal Castle, Łazienki Park and the Old Town.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Płock",
+        "lat": 52.5463,
+        "lon": 19.7065,
+        "note": "Historic cathedral town high above the Vistula.",
+        "label": "left"
+      },
+      {
+        "name": "Radom",
+        "lat": 51.4027,
+        "lon": 21.1471,
+        "note": "One of the region's largest cities, in the south."
+      },
+      {
+        "name": "Siedlce",
+        "lat": 52.1676,
+        "lon": 22.2902,
+        "note": "Eastern Masovia's main town."
+      },
+      {
+        "name": "Ostrołęka",
+        "lat": 53.0855,
+        "lon": 21.574,
+        "note": "On the Narew river, in Kurpie country."
+      },
+      {
+        "name": "Żelazowa Wola",
+        "lat": 52.2889,
+        "lon": 20.2625,
+        "note": "Chopin's birthplace, a manor house and park with summer concerts.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Warsaw Old Town",
+      "text": "Rebuilt after 1945 and listed by UNESCO as an outstanding example of a nearly total reconstruction."
+    },
+    {
+      "title": "Chopin",
+      "text": "Born in 1810 at Żelazowa Wola; the International Chopin Piano Competition is held in Warsaw every five years."
+    },
+    {
+      "title": "The Warsaw Uprising",
+      "text": "The 1944 rising is remembered every year on 1 August, when sirens sound across the city at 5pm."
+    }
+  ],
+  "places": [
+    {
+      "name": "Royal Castle and Old Town",
+      "where": "Warsaw",
+      "text": "The rebuilt heart of the capital, with the castle square and market."
+    },
+    {
+      "name": "Łazienki Park",
+      "where": "Warsaw",
+      "text": "Palace-on-the-water park where free Chopin recitals are held on summer Sundays."
+    },
+    {
+      "name": "Museum of the History of Polish Jews (POLIN)",
+      "where": "Warsaw",
+      "text": "A major museum on the thousand-year story of Jews in Poland."
+    },
+    {
+      "name": "Żelazowa Wola",
+      "where": "Masovia",
+      "text": "Chopin's birthplace and a garden that hosts recitals in summer."
+    }
+  ],
+  "food": [
+    "Żurek",
+    "Pierogi",
+    "Wuzetka cake",
+    "Pączki",
+    "Grójec apples",
+    "Śledzik (herring)"
+  ],
+  "festivals": [
+    {
+      "name": "International Chopin Piano Competition",
+      "where": "Warsaw",
+      "month": 10,
+      "when": "Every five years, in October",
+      "text": "One of the world's great piano competitions, followed live by Poles at home and abroad.",
+      "diaspora": true
+    },
+    {
+      "name": "Chopin concerts in Łazienki Park",
+      "where": "Warsaw",
+      "month": 7,
+      "when": "Sundays, May to September",
+      "text": "Free open-air piano recitals beside the Chopin monument."
+    },
+    {
+      "name": "Warsaw Uprising anniversary",
+      "where": "Warsaw and abroad",
+      "month": 8,
+      "when": "1 August",
+      "text": "A minute of silence and sirens at 5pm; marked by Polish communities worldwide.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Warsaw is home to Poland's best-known club, Legia, and one of the loudest atmospheres in the league.",
+    "clubs": [
+      {
+        "name": "Legia Warszawa",
+        "sport": "Football",
+        "ground": "Stadion Wojska Polskiego, Warsaw"
+      },
+      {
+        "name": "Polonia Warszawa",
+        "sport": "Football",
+        "ground": "Konwiktorska Street, Warsaw"
+      },
+      {
+        "name": "Radomiak Radom",
+        "sport": "Football",
+        "ground": "Stadion Miejski, Radom"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Warsaw families form a large part of the Polish communities in London, Chicago and Toronto, and the Warsaw Uprising is among the best-attended Polish anniversaries abroad."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Mazowsze",
+    "adjective": "Mazowsze",
+    "people": "Mazowszanie",
+    "eyebrow": "Środkowa Polska · Stolica: Warszawa",
+    "title": "Mazowsze —",
+    "title_em": "serce Polski.",
+    "tagline": "Warszawa, stolica odrodzona z ruin 1944 roku, oraz równiny i wsie, w których Chopin po raz pierwszy usłyszał muzykę ludową.",
+    "stats": [
+      [
+        "5,5 mln",
+        "mieszkańców"
+      ],
+      [
+        "35 600 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Mazowsze to największe i najludniejsze województwo w Polsce, z Warszawą w centrum. Stolica została niemal całkowicie zniszczona w czasie II wojny światowej i odbudowana, wraz ze Starym Miastem, na podstawie obrazów i planów. Poza miastem Mazowsze to krajobraz rzek, sadów i małych miasteczek.",
+      "Warszawa przyciąga ludzi z całej Polski, więc prawie każda polska rodzina za granicą ma z nią jakiś związek. Polskie społeczności w Londynie, Chicago i gdzie indziej obchodzą rocznice warszawskie, zwłaszcza Powstania z 1944 roku, jak własne."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Stolica, nad Wisłą; Zamek Królewski, Łazienki i Stare Miasto."
+        },
+        {
+          "note": "Historyczne katedralne miasto wysoko nad Wisłą."
+        },
+        {
+          "note": "Jedno z największych miast regionu, na południu."
+        },
+        {
+          "note": "Główne miasto wschodniego Mazowsza."
+        },
+        {
+          "note": "Nad Narwią, w krainie Kurpiów."
+        },
+        {
+          "note": "Miejsce urodzenia Chopina: dworek i park z letnimi koncertami."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Stare Miasto w Warszawie",
+        "text": "Odbudowane po 1945 roku i wpisane przez UNESCO na Listę Światowego Dziedzictwa jako wybitny przykład niemal całkowitej rekonstrukcji."
+      },
+      {
+        "title": "Chopin",
+        "text": "Urodził się w 1810 roku w Żelazowej Woli; Międzynarodowy Konkurs Pianistyczny im. Chopina odbywa się w Warszawie co pięć lat."
+      },
+      {
+        "title": "Powstanie Warszawskie",
+        "text": "Powstanie z 1944 roku jest wspominane co roku 1 sierpnia, gdy o godzinie 17.00 w całym mieście włączają się syreny."
+      }
+    ],
+    "places": [
+      {
+        "name": "Zamek Królewski i Stare Miasto",
+        "where": "Warszawa",
+        "text": "Odbudowane serce stolicy, z placem Zamkowym i rynkiem."
+      },
+      {
+        "name": "Park Łazienkowski",
+        "where": "Warszawa",
+        "text": "Park z pałacem na wodzie, w którym w letnie niedziele odbywają się bezpłatne recitale chopinowskie."
+      },
+      {
+        "name": "Muzeum Historii Żydów Polskich POLIN",
+        "where": "Warszawa",
+        "text": "Duże muzeum poświęcone tysiącletniej historii Żydów w Polsce."
+      },
+      {
+        "name": "Żelazowa Wola",
+        "where": "Mazowsze",
+        "text": "Miejsce urodzenia Chopina i ogród, w którym latem odbywają się recitale."
+      }
+    ],
+    "food": [
+      "Żurek",
+      "Pierogi",
+      "Wuzetka",
+      "Pączki",
+      "Jabłka z Grójca",
+      "Śledzik"
+    ],
+    "festivals": [
+      {
+        "name": "Międzynarodowy Konkurs Pianistyczny im. Fryderyka Chopina",
+        "where": "Warszawa",
+        "when": "Co pięć lat, w październiku",
+        "text": "Jeden z największych konkursów pianistycznych na świecie, śledzony na żywo przez Polaków w kraju i za granicą."
+      },
+      {
+        "name": "Koncerty chopinowskie w Łazienkach",
+        "where": "Warszawa",
+        "when": "Niedziele, od maja do września",
+        "text": "Bezpłatne recitale fortepianowe na wolnym powietrzu przy pomniku Chopina."
+      },
+      {
+        "name": "Rocznica Powstania Warszawskiego",
+        "where": "Warszawa i za granicą",
+        "when": "1 sierpnia",
+        "text": "Minuta ciszy i syreny o godzinie 17.00; obchodzone przez polskie społeczności na całym świecie."
+      }
+    ],
+    "sport": {
+      "intro": "W Warszawie gra najbardziej znany polski klub, Legia, a trybuny należą do najgłośniejszych w lidze.",
+      "clubs": [
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Wojska Polskiego, Warszawa"
+        },
+        {
+          "sport": "Piłka nożna",
+          "ground": "ul. Konwiktorska, Warszawa"
+        },
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Miejski, Radom"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Warszawskie rodziny stanowią dużą część polskich społeczności w Londynie, Chicago i Toronto, a rocznica Powstania Warszawskiego należy do najliczniej obchodzonych polskich rocznic za granicą."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}

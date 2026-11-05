@@ -1,0 +1,290 @@
+{
+  "slug": "kuyavia-pomerania",
+  "name": "Kuyavia-Pomerania",
+  "name_pl": "Kujawsko-Pomorskie",
+  "adjective": "Kuyavian-Pomeranian",
+  "people": "Kuyavians",
+  "eyebrow": "North-central Poland · Capitals: Toruń and Bydgoszcz",
+  "title": "Kuyavia-Pomerania —",
+  "title_em": "gingerbread and Copernicus.",
+  "tagline": "Toruń, birthplace of Copernicus, the gingerbread city on the Vistula, and the Iron Age fortress of Biskupin.",
+  "stats": [
+    [
+      "2.0M",
+      "residents"
+    ],
+    [
+      "18,000 km²",
+      "area"
+    ],
+    [
+      "16",
+      "voivodeships in Poland"
+    ]
+  ],
+  "summary": [
+    "Kuyavia-Pomerania has two capitals: Bydgoszcz, a canal city with a lively riverside, and Toruń, a medieval Hanseatic city listed by UNESCO. Nicolaus Copernicus was born in Toruń in 1473.",
+    "Toruń is also famous for its gingerbread (pierniki), which has been baked there since the Middle Ages, and Biskupin shows how Iron Age people lived in a fortified lake settlement."
+  ],
+  "map": {
+    "viewBox": "193 107 172 163",
+    "lon0": 0,
+    "x0": -859.54,
+    "pxPerLon": 61.566,
+    "lat0": 0,
+    "y0": 5493.64,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Toruń",
+        "lat": 53.0138,
+        "lon": 18.5984,
+        "note": "Medieval Old Town and Copernicus's birthplace.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Bydgoszcz",
+        "lat": 53.1235,
+        "lon": 18.0084,
+        "note": "A canal city and the region's largest.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Włocławek",
+        "lat": 52.6483,
+        "lon": 19.0678,
+        "note": "On the Vistula, centre of faience ware."
+      },
+      {
+        "name": "Grudziądz",
+        "lat": 53.4837,
+        "lon": 18.7536,
+        "note": "Famed for its riverside granaries."
+      },
+      {
+        "name": "Inowrocław",
+        "lat": 52.793,
+        "lon": 18.2619,
+        "note": "A spa town built on salt.",
+        "label": "left"
+      },
+      {
+        "name": "Biskupin",
+        "lat": 52.798,
+        "lon": 17.745,
+        "note": "The Iron Age settlement and archaeological museum.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Toruń Old Town",
+      "text": "One of Poland's best-preserved Gothic towns, and Copernicus's birthplace."
+    },
+    {
+      "title": "Toruń gingerbread",
+      "text": "A tradition dating back to the Middle Ages; the gingerbread museum lets you bake your own."
+    },
+    {
+      "title": "Biskupin",
+      "text": "A reconstructed Iron Age fortified settlement on a lake."
+    }
+  ],
+  "places": [
+    {
+      "name": "Toruń Old Town",
+      "where": "Toruń",
+      "text": "UNESCO-listed Gothic town on the Vistula."
+    },
+    {
+      "name": "Bydgoszcz's Mill Island",
+      "where": "Bydgoszcz",
+      "text": "A riverside island with the old granaries and the Brda river."
+    },
+    {
+      "name": "Biskupin",
+      "where": "Biskupin",
+      "text": "A reconstructed Iron Age fortified lake settlement."
+    },
+    {
+      "name": "Grudziądz granaries",
+      "where": "Grudziądz",
+      "text": "Riverside brick granaries above the Vistula."
+    }
+  ],
+  "food": [
+    "Toruń gingerbread (pierniki)",
+    "Roast goose",
+    "Pierogi",
+    "Fruit from the Vistula valley"
+  ],
+  "festivals": [
+    {
+      "name": "Camerimage",
+      "where": "Bydgoszcz",
+      "month": 11,
+      "when": "November",
+      "text": "An international festival for cinematographers."
+    },
+    {
+      "name": "Toruń Gingerbread events",
+      "where": "Toruń",
+      "month": 12,
+      "when": "December",
+      "text": "Gingerbread baking and Christmas markets."
+    }
+  ],
+  "sport": {
+    "intro": "Speedway is huge here: Toruń and Bydgoszcz both have long-established clubs.",
+    "clubs": [
+      {
+        "name": "Apator Toruń",
+        "sport": "Speedway",
+        "ground": "MotoArena, Toruń"
+      },
+      {
+        "name": "Polonia Bydgoszcz",
+        "sport": "Speedway",
+        "ground": "Stadion Polonii, Bydgoszcz"
+      },
+      {
+        "name": "Zawisza Bydgoszcz",
+        "sport": "Football",
+        "ground": "Stadion Zawiszy, Bydgoszcz"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Copernicus's home city has links with scientific and Polish heritage groups abroad, and many families from Bydgoszcz settled in the UK and Germany."
+  },
+  "ancestry": "Searching for your family's roots? Many Polish parish and civil records are searchable on the Geneteka index and the state archives portal Szukaj w Archiwach. Note that records from regions that were once German, Austrian or Russian may be in more than one language.",
+  "pl": {
+    "name": "Kujawy i Pomorze",
+    "adjective": "Kujawy i Pomorze",
+    "people": "Kujawiacy",
+    "eyebrow": "Północno-środkowa Polska · Stolice: Toruń i Bydgoszcz",
+    "title": "Kujawy i Pomorze —",
+    "title_em": "pierniki i Kopernik.",
+    "tagline": "Toruń, miejsce urodzenia Kopernika, piernikowe miasto nad Wisłą i żelazna osada w Biskupinie.",
+    "stats": [
+      [
+        "2,0 mln",
+        "mieszkańców"
+      ],
+      [
+        "18 000 km²",
+        "powierzchnia"
+      ],
+      [
+        "16",
+        "województw w Polsce"
+      ]
+    ],
+    "summary": [
+      "Województwo kujawsko-pomorskie ma dwie stolice: Bydgoszcz, miasto kanałów z żywym nabrzeżem, i Toruń, średniowieczne miasto hanzeatyckie wpisane na listę UNESCO. Mikołaj Kopernik urodził się w Toruniu w 1473 roku.",
+      "Toruń słynie też z pierników, które piecze się tu od średniowiecza, a Biskupin pokazuje, jak żyli ludzie w epoce żelaza w ufortyfikowanej osadzie nad jeziorem."
+    ],
+    "map": {
+      "towns": [
+        {
+          "note": "Średniowieczne Stare Miasto i miejsce urodzenia Kopernika."
+        },
+        {
+          "note": "Miasto kanałów i największe w regionie."
+        },
+        {
+          "note": "Nad Wisłą, ośrodek fajansu."
+        },
+        {
+          "note": "Znane ze spichlerzy nad rzeką."
+        },
+        {
+          "note": "Uzdrowisko zbudowane na soli."
+        },
+        {
+          "note": "Osada z epoki żelaza i muzeum archeologiczne."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Stare Miasto w Toruniu",
+        "text": "Jedno z najlepiej zachowanych gotyckich miast w Polsce i miejsce urodzenia Kopernika."
+      },
+      {
+        "title": "Toruńskie pierniki",
+        "text": "Tradycja sięgająca średniowiecza; w muzeum piernika można samemu upiec pierniki."
+      },
+      {
+        "title": "Biskupin",
+        "text": "Zrekonstruowana warowna osada z epoki żelaza nad jeziorem."
+      }
+    ],
+    "places": [
+      {
+        "name": "Stare Miasto w Toruniu",
+        "where": "Toruń",
+        "text": "Gotyckie miasto na Wiśle wpisane na listę UNESCO."
+      },
+      {
+        "name": "Wyspa Młyńska",
+        "where": "Bydgoszcz",
+        "text": "Nadrzeczna wyspa ze starymi spichlerzami i Brdą."
+      },
+      {
+        "name": "Biskupin",
+        "where": "Biskupin",
+        "text": "Zrekonstruowana warowna osada z epoki żelaza nad jeziorem."
+      },
+      {
+        "name": "Spichlerze w Grudziądzu",
+        "where": "Grudziądz",
+        "text": "Ceglane spichlerze nad Wisłą."
+      }
+    ],
+    "food": [
+      "Toruńskie pierniki",
+      "Pieczona gęś",
+      "Pierogi",
+      "Owoce z doliny Wisły"
+    ],
+    "festivals": [
+      {
+        "name": "Camerimage",
+        "where": "Bydgoszcz",
+        "when": "Listopad",
+        "text": "Międzynarodowy festiwal dla autorów zdjęć filmowych."
+      },
+      {
+        "name": "Piernikowe wydarzenia w Toruniu",
+        "where": "Toruń",
+        "when": "Grudzień",
+        "text": "Pieczenie pierników i jarmarki bożonarodzeniowe."
+      }
+    ],
+    "sport": {
+      "intro": "Żużel jest tu ogromny: Toruń i Bydgoszcz mają kluby z wieloletnią tradycją.",
+      "clubs": [
+        {
+          "sport": "Żużel",
+          "ground": "MotoArena, Toruń"
+        },
+        {
+          "sport": "Żużel",
+          "ground": "Stadion Polonii, Bydgoszcz"
+        },
+        {
+          "sport": "Piłka nożna",
+          "ground": "Stadion Zawiszy, Bydgoszcz"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Rodzinne miasto Kopernika łączą więzi z grupami naukowymi i polonijnymi za granicą, a wielu bydgoszczan osiedliło się w Wielkiej Brytanii i Niemczech."
+    },
+    "ancestry": "Szukasz korzeni swojej rodziny? Wiele polskich ksiąg parafialnych i metrykalnych można znaleźć w indeksie Geneteka oraz w portalu archiwów państwowych Szukaj w Archiwach. Pamiętaj, że dokumenty z regionów, które dawniej należały do Niemiec, Austrii lub Rosji, mogą być w kilku językach."
+  }
+}
