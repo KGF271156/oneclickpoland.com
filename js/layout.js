@@ -137,6 +137,25 @@
   }
 
   /* ---------- wiring ---------- */
+  /* Rippling Polish flag (white over red, with the coat of arms) in every hero banner. */
+  function addFlags() {
+    var calm = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    [].forEach.call(document.querySelectorAll('.hero'), function (hero, i) {
+      if (hero.querySelector('.hero-flag')) return;
+      var id = 'ocf' + i;
+      var wave = calm ? '' : '<animate attributeName="baseFrequency" dur="16s" values="0.003 0.010;0.005 0.014;0.003 0.010" repeatCount="indefinite"/>';
+      var move = calm ? '' : '<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="300 0" dur="6s" repeatCount="indefinite"/>';
+      hero.insertAdjacentHTML('afterbegin',
+        '<div class="hero-flag" aria-hidden="true"><svg viewBox="0 0 800 500" preserveAspectRatio="xMidYMid slice" focusable="false">' +
+        '<defs><filter id="' + id + 'w" x="-10%" y="-10%" width="120%" height="120%"><feTurbulence type="turbulence" baseFrequency="0.003 0.010" numOctaves="2" seed="4" result="t">' + wave + '</feTurbulence>' +
+        '<feDisplacementMap in="SourceGraphic" in2="t" scale="26" xChannelSelector="R" yChannelSelector="G"/></filter>' +
+        '<linearGradient id="' + id + 's" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="300" y2="0" spreadMethod="repeat">' + move +
+        '<stop offset="0" stop-color="#000" stop-opacity="0.22"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.18"/><stop offset="1" stop-color="#000" stop-opacity="0.22"/></linearGradient></defs>' +
+        '<g filter="url(#' + id + 'w)"><rect x="-80" y="-80" width="960" height="330" fill="#FFFFFF"/><rect x="-80" y="250" width="960" height="330" fill="#C8102E"/>' +
+        '<image href="' + ROOT + 'assets/herb-polski.svg" x="316" y="34" width="168" height="198" preserveAspectRatio="xMidYMid meet"/>' +
+        '<rect x="-80" y="-80" width="960" height="660" fill="url(#' + id + 's)"/></g></svg></div>');
+    });
+  }
   function mountFooter() {
     var slot = document.getElementById('site-footer');
     if (slot && !slot.firstChild) slot.outerHTML = footerHTML();
@@ -164,7 +183,11 @@
       var s = document.currentScript;
       if (s) s.insertAdjacentHTML('beforebegin', headerHTML());
       wire();
-      onReady(function () { mountFooter(); if (LANG === 'pl') translatePage(); });
+      onReady(function () {
+        mountFooter(); addFlags(); if (LANG === 'pl') translatePage();
+        // region and news pages draw their banner after load: give it the flag too
+        new MutationObserver(function () { addFlags(); }).observe(document.body, { childList: true, subtree: true });
+      });
     }
   };
 
