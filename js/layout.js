@@ -144,6 +144,7 @@
       if (hero.querySelector('.hero-flag')) return;
       var id = 'ocf' + i;
       var wave = calm ? '' : '<animate attributeName="baseFrequency" dur="16s" values="0.003 0.010;0.005 0.014;0.003 0.010" repeatCount="indefinite"/>';
+      var sway = calm ? '' : '<animateTransform attributeName="transform" type="rotate" values="-1.2 400 133;1.2 400 133;-1.2 400 133" dur="9s" repeatCount="indefinite"/>';
       var move = calm ? '' : '<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="300 0" dur="6s" repeatCount="indefinite"/>';
       hero.insertAdjacentHTML('afterbegin',
         '<div class="hero-flag" aria-hidden="true"><svg viewBox="0 0 800 500" preserveAspectRatio="xMidYMid slice" focusable="false">' +
@@ -152,8 +153,10 @@
         '<linearGradient id="' + id + 's" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="300" y2="0" spreadMethod="repeat">' + move +
         '<stop offset="0" stop-color="#000" stop-opacity="0.22"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.18"/><stop offset="1" stop-color="#000" stop-opacity="0.22"/></linearGradient></defs>' +
         '<g filter="url(#' + id + 'w)"><rect x="-80" y="-80" width="960" height="330" fill="#FFFFFF"/><rect x="-80" y="250" width="960" height="330" fill="#C8102E"/>' +
-        '<image href="' + ROOT + 'assets/herb-polski.svg" x="316" y="34" width="168" height="198" preserveAspectRatio="xMidYMid meet"/>' +
-        '<rect x="-80" y="-80" width="960" height="660" fill="url(#' + id + 's)"/></g></svg></div>');
+        '<rect x="-80" y="-80" width="960" height="660" fill="url(#' + id + 's)"/></g>' +
+        // the coat of arms is NOT rippled: it stays crisp and only sways very slightly
+        '<image href="' + ROOT + 'assets/herb-polski.svg" x="316" y="34" width="168" height="198" preserveAspectRatio="xMidYMid meet">' + sway + '</image>' +
+        '</svg></div>');
     });
   }
   function mountFooter() {
